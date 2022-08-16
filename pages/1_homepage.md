@@ -52,11 +52,11 @@ function toggleBibtex(articleid) {
 
 
 
-## Publications ([**Google Scholar**](https://scholar.google.com/citations?user=JgiasCAAAAAJ&hl=en))
+### Publications ([**Google Scholar**](https://scholar.google.com/citations?user=JgiasCAAAAAJ&hl=en))
 
-### Journal Papers
+#### Journal Papers
 
-* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot, "Low-Rankness Guided Group Sparse Representation for Image Restoration, **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**, 2022. (IF: 14.255) [PDF](https://ieeexplore.ieee.org/abstract/document/9705602).
+* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot, "Low-Rankness Guided Group Sparse Representation for Image Restoration, **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**, 2022. (IF: 14.255) [PDF](https://ieeexplore.ieee.org/abstract/document/9705602) [Code](https://github.com/zhazhiyuan/LGSR_IR_Demo).
 
 * **Tianjing Zhang**, LiangJian Deng, Ting-Zhu Huang, Gemine Vivone and Jocelyn Chanussot. “Pansharpening via Triple-Double convolutional neural network.”  **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**.[[Project Page](https://liangjiandeng.github.io/index.html)][[PDF](https://liangjiandeng.github.io/papers/2022/zhang-tnnls2022.pdf)]<a href="javascript:toggleBibtex('zhangtnnls2022')" class="textlink">[BibTeX]</a>
 <div id="bib_zhangtnnls2022" class="BibTeX noshow">
