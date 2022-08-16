@@ -2,7 +2,7 @@
 layout: page
 title: Zhiyuan Zha
 comments: true
-permalink: /homepage/
+permalink: /myhomepage/
 ---
 
 * content
