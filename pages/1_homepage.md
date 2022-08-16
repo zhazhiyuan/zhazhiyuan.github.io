@@ -48,11 +48,13 @@ function toggleBibtex(articleid) {
 	
 ### Biography
  
-| <br>**Zhiyuan Zha (查志远）** is a postdoctoral research fellow at the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, working with [Prof. Bihan Wen](https://personal.ntu.edu.sg/bihan.wen/). Prior to that, I was a postdoctoral research fellow at the School of Information and Communication Engineering, University of Electronic Science and Technology of China, Chengdu, China, working with [Prof. Ce Zhu](http://www.avc2-lab.net/~eczhu/). I received a Ph.D. degree from the School of Electronic Science and Engineering, Nanjing University, Nanjing, China, in 2018. My research interests include inverse problems in image/video processing, sparse signal representation, and machine learning. <br> <br> **Email：** <zhazhiyuan.mmd@gmail.com>, <zhiyuan.zha@ntu.edu.sg>. <br><br>|  ![image](https://zhazhiyuan.github.io/images/IMG_2698.JPG)|
+| <br>**Zhiyuan Zha (查志远）** is a postdoctoral research fellow at the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, working with [Prof. Bihan Wen](https://personal.ntu.edu.sg/bihan.wen/). Prior to that, I was a postdoctoral research fellow at the School of Information and Communication Engineering, University of Electronic Science and Technology of China, Chengdu, China, working with [Prof. Ce Zhu](http://www.avc2-lab.net/~eczhu/). I received a Ph.D. degree from the School of Electronic Science and Engineering, Nanjing University, Nanjing, China, in 2018. My research interests include inverse problems in image and volume data (e.g., video, Hyperspectral image and medical image) processing, sparse signal representation, and machine learning. <br> <br> **Email：** <zhazhiyuan.mmd@gmail.com>, <zhiyuan.zha@ntu.edu.sg>. <br><br>|  ![image](https://zhazhiyuan.github.io/images/IMG_2698.JPG)|
 
 
 
 ### Publications ([**Google Scholar**](https://scholar.google.com/citations?user=JgiasCAAAAAJ&hl=en))
+
+## Journal Papers
 
 * **Tianjing Zhang**, LiangJian Deng, Ting-Zhu Huang, Gemine Vivone and Jocelyn Chanussot. “Pansharpening via Triple-Double convolutional neural network.”  **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**.[[Project Page](https://liangjiandeng.github.io/index.html)][[PDF](https://liangjiandeng.github.io/papers/2022/zhang-tnnls2022.pdf)]<a href="javascript:toggleBibtex('zhangtnnls2022')" class="textlink">[BibTeX]</a>
 <div id="bib_zhangtnnls2022" class="BibTeX noshow">
