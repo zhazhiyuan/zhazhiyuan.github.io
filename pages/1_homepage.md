@@ -68,14 +68,10 @@ function toggleBibtex(articleid) {
 	    <li class="graid3-li"><strong>Wenhan Yang</strong>, Robby T. Tan, Shiqi Wang, Alex C. Kot, and Jiaying Liu. "Learning to Remove Rain in Video with Self-Supervision", <i>Accepted by IEEE Trans. on Pattern Analysis and Machine Intelligence</i> (<i>TPAMI</i>), 2022. 
             [<a href="https://flyywh.github.io/Publication.html" ;="">pdf</a>]
 		    
+</ul>		    
 		    
 		    
-		    
-		    
-
-	    <li class="graid3-li"><strong>Wenhan Yang</strong>, Robby T. Tan, Shiqi Wang, Alex C. Kot, and Jiaying Liu. "Learning to Remove Rain in Video with Self-Supervision", <i>Accepted by IEEE Trans. on Pattern Analysis and Machine Intelligence</i> (<i>TPAMI</i>), 2022. 
-            [<a href="https://flyywh.github.io/Publication.html" ;="">pdf</a>]
-
+		     
 * **Tianjing Zhang**, LiangJian Deng, Ting-Zhu Huang, Gemine Vivone and Jocelyn Chanussot. “Pansharpening via Triple-Double convolutional neural network.”  **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**.[[Project Page](https://liangjiandeng.github.io/index.html)][[PDF](https://liangjiandeng.github.io/papers/2022/zhang-tnnls2022.pdf)]<a href="javascript:toggleBibtex('zhangtnnls2022')" class="textlink">[BibTeX]</a>
 <div id="bib_zhangtnnls2022" class="BibTeX noshow">
 <pre>
