@@ -100,6 +100,26 @@ function toggleBibtex(articleid) {
 
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou and Ce Zhu. "Low-Rank Regularized Joint Sparsity for Image Denoising," **_28th IEEE International Conference on Image Processing (ICIP)_**, Anchorage, Alaska, USA, pp. 1644-1648, 2021. (Oral)
 
+* **Zhiyuan Zha**, Xin Yuan, Jiantao Zhou, Ce Zhu and Bihan Wen. "A Hybrid Structural Sparse Error Model for Image Deblocking," **_45th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Barcelona, Spain, pp. 2493-2497, 2020. (Oral)
+
+* **Zhiyuan Zha**, Xin Yuan, Jiantao Zhou, Joey Tianyi Zhou, Bihan Wen and Ce Zhu, "The Power Of Triply Complementary Priors For Image Compressive Sensing," **_27th IEEE International Conference on Image Processing (ICIP)_**, Abu Dhabi, United Arab Emirates, pp. 983-987, 2020. (Oral)
+
+* **Zhiyuan Zha**, Bihan Wen, Jiachao Zhang, Jiantao Zhou and Ce Zhu. "A Comparative Study for the Nuclear Norms Minimization Methods," **_26th IEEE International Conference on Image Processing (ICIP)_**, Taipei, Taiwan, pp. 2050-2054, 2019. (Poster)
+
+* **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiachao Zhang, Jiantao Zhou and Ce Zhu. "Simultaneous Nonlocal Self-Similarity Prior for Image Denoising," **_26th IEEE International Conference on Image Processing (ICIP)_**, Taipei, Taiwan pp. 1119-1123, 2019. (Poster)
+
+* **Zhiyuan Zha**, Xinggan Zhang, Qiong Wang, Yechao Bai, Lan Tang and Xin Yuan. "Group sparsity residual with non-local samples for image denoising," **_43th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Calgary, AB, pp. 1353-1357, 2018. (Oral)
+
+* **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiantao Zhou and Ce Zhu. "Joint patch-group based sparse representation for image inpainting," **_10th Asian Conference on Machine Learning (ACML)_**, Bejing, China, pp. 145-160. 2018. (Oral)
+
+* **Zhiyuan Zha**, Xin Liu, Ziheng Zhou, Xiaohua Huang, Jingang Shi, Zhenhong Shang, Lan Tang, Yechao Bai, Qiong Wang and Xinggan Zhang. "Image denoising via group sparsity residual constraint," **_42th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, New Orleans, LA, pp. 1787-1791, 2017. (Poster)
+
+* **Zhiyuan Zha**, Xinggan Zhang, Qiong Wang, Yechao Bai and Lan Tang. "Image denoising using group sparsity residual and external nonlocal self-similarity prior," **_24th IEEE International Conference on Image Processing (ICIP)_**, Bejing, China, pp. 2956-2960. IEEE, 2017. (Poster)
+
+* Lanqing Guo, **Zhiyuan Zha**, Saiprasad Ravishankar, and Bihan Wen. "Self-convolution: A highly-efficient operator for non-local image restorationg," **_46th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Toronto, Ontario, Canada, pp. 1860-1864, 2021. (Oral)
+
+
+
 ---
 
 ### Experiences 
