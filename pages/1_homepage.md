@@ -128,9 +128,9 @@ function toggleBibtex(articleid) {
 
 ### Awards
 
-* [Platinum Best Paper Award](https://zhazhiyuan.github.io/images/IMG_2698.png) at 17th IEEE International Conference on Multimedia and Expo (ICME), 2017.
+* [Platinum Best Paper Award](https://zhazhiyuan.github.io/images/Platinum Best Paper Award.JPG) at 17th IEEE International Conference on Multimedia and Expo (ICME), 2017.
 
-* [Best Paper Runner Up Award](https://zhazhiyuan.github.io/images/IMG_2698.png) at 20th IEEE International Conference on Multimedia and Expo (ICME), 2020.
+* [Best Paper Runner Up Award](https://zhazhiyuan.github.io/images/Best Paper Runner Up Award.PNG) at 20th IEEE International Conference on Multimedia and Expo (ICME), 2020.
 
 
 
