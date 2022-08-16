@@ -84,7 +84,11 @@ function toggleBibtex(articleid) {
 
 * **Zhiyuan Zha**, Xin Liu, Xinggan Zhang, Yang Chen, Lan Tang, Yechao Bai, Qiong Wang and Zhenhong Shang. "Compressed sensing image reconstruction via adaptive sparse nonlocal regularization," **_The Visual Computer_**, vol. 34, pp. 117–137, 2018. (IF: 1.036)
 
-* Qiong Wang, Xinggan Zhang, Yu Wu, Lan Tang and **Zhiyuan Zha***. "Nonconvex Weighted Lp Minimization Based Group Sparse Representation Framework for Image Denoising," **_IEEE Signal Processing Letters_**, vol. 24, no. 11, pp. 1686-1690, Nov. 2017. (IF: 2.528)
+* Qiong Wang, Xinggan Zhang, Yu Wu, Lan Tang and **Zhiyuan Zha* **. "Nonconvex Weighted Lp Minimization Based Group Sparse Representation Framework for Image Denoising," **_IEEE Signal Processing Letters_**, vol. 24, no. 11, pp. 1686-1690, Nov. 2017. (IF: 2.528)
+
+* Lanqing Guo, **Zhiyuan Zha**, Saiprasad Ravishankar, and Bihan Wen, "Exploiting Non-Local Priors via Self-Convolution for Highly-Efficient Image Restoration," **_IEEE Transactions on Image Processing_**, vol. 31, pp. 1311-1324, 2022. (IF: 11.041)
+
+* Chen Xiang, Wenjun Xia, Yan Liu, Hu Chen, Jiliu Zhou, **Zhiyuan Zha**, Bihan Wen, and Yi Zhang, "FONT-SIR: Fourth-Order Nonlocal Tensor Decomposition Model for Spectral CT Image Reconstruction," **_IEEE Transactions on Medical Imaging_**, vol. 41, no. 8, pp. 2144-2156, Aug. 2022. (IF: 11.037)
 
 ---
 
