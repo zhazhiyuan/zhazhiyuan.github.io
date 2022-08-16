@@ -66,10 +66,15 @@ function toggleBibtex(articleid) {
 
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot, "A Hybrid Structural Sparsification Error Model for Image Restoration," **_IEEE Transactions on Neural Networks and Learning Systems_**, 2021. (IF: 10.451)
 * 
-* **Zhiyuan Zha**, Xin Yuan, Jiantao Zhou, Ce Zhu and Bihan Wen. "Image restoration via simultaneous nonlocal self-similarity priors."  **_IEEE Transactions on Image Processing_**, vol. 29, pp. 8561-8576, 2020. (IF: 9.340)	    
+* **Zhiyuan Zha**, Xin Yuan, Jiantao Zhou, Ce Zhu and Bihan Wen. "Image restoration via simultaneous nonlocal self-similarity priors,"  **_IEEE Transactions on Image Processing_**, vol. 29, pp. 8561-8576, 2020. (IF: 9.340)	    
 
+* **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiantao Zhou and Ce Zhu. "Group Sparsity Residual Constraint With Non-Local Priors for Image Restoration,"  **_IEEE Transactions on Image Processing_**, vol. 29, pp. 8960-8975, 2020. (IF: 9.340)
 
+* **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiachao Zhang, Jiantao Zhou and Ce Zhu. "Image restoration using joint patch-group-based sparse representation,"  **_IEEE Transactions on Image Processing_**, vol. 29, pp. 7735-7750, 2020. (IF: 9.340)
 
+* **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiantao Zhou, Jiachao Zhang and Ce Zhu. "A benchmark for sparse coding: When group sparsity meets rank minimization," **_IEEE Transactions on Image Processing_**, vol. 29, pp. 5094-5109, 2020. (IF: 9.340)
+
+* **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiantao Zhou, Jiachao Zhang and Ce Zhu. "From rank estimation to rank approximation: Rank residual constraint for image restoration,"  **_IEEE Transactions on Image Processing_**, vol. 29, pp. 3254-3269, 2020. (IF: 9.340)
 
 ---
 
