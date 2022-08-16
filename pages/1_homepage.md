@@ -54,6 +54,7 @@ function toggleBibtex(articleid) {
 
 ### Publications ([**Google Scholar**](https://scholar.google.com/citations?user=JgiasCAAAAAJ&hl=en))
 
+
 #### Journal Papers
 
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot, "Low-Rankness Guided Group Sparse Representation for Image Restoration, **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**, 2022. (IF: 14.255) [[PDF](https://ieeexplore.ieee.org/abstract/document/9705602)] [[Code](https://github.com/zhazhiyuan/LGSR_IR_Demo)]
@@ -89,6 +90,7 @@ function toggleBibtex(articleid) {
 * Lanqing Guo, **Zhiyuan Zha**, Saiprasad Ravishankar, and Bihan Wen, "Exploiting Non-Local Priors via Self-Convolution for Highly-Efficient Image Restoration," **_IEEE Transactions on Image Processing_**, vol. 31, pp. 1311-1324, 2022. (IF: 11.041) ([PDF](https://ieeexplore.ieee.org/abstract/document/9679456))
 
 * Chen Xiang, Wenjun Xia, Yan Liu, Hu Chen, Jiliu Zhou, **Zhiyuan Zha**, Bihan Wen, and Yi Zhang, "FONT-SIR: Fourth-Order Nonlocal Tensor Decomposition Model for Spectral CT Image Reconstruction," **_IEEE Transactions on Medical Imaging_**, vol. 41, no. 8, pp. 2144-2156, 2022. (IF: 11.037) ([PDF](https://ieeexplore.ieee.org/abstract/document/9726161))
+
 
 #### Conference Papers
 
