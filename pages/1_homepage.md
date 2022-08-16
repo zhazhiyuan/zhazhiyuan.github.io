@@ -92,8 +92,9 @@ function toggleBibtex(articleid) {
 
 #### Conference Papers
 
-* **Zhiyuan Zha**, Xin Liu, Xiaohua Huang, Henglin Shi, Yingyue Xu, Qiong Wang, Lan Tang and Xinggan Zhang. "Analyzing the group sparsity based on the rank minimization methods," **_17th IEEE International Conference on Multimedia and Expo (ICME)_**, Hong Kong, pp. 883-888, 2017. (Oral, **Platinum Best Paper Award, Top 0.5%, Total 850**)
+* **Zhiyuan Zha**, Xin Liu, Xiaohua Huang, Henglin Shi, Yingyue Xu, Qiong Wang, Lan Tang and Xinggan Zhang. "Analyzing the Group Sparsity based on the Rank Minimization Methods," **_17th IEEE International Conference on Multimedia and Expo (ICME)_**, Hong Kong, pp. 883-888, 2017. (Oral, **Platinum Best Paper Award, Top 0.5%, Total 850**)
 
+* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou and Ce Zhu. "Reconciliation of Group Sparsity and Low-Rank Models for Image Restoration." **_20th IEEE International Conference on Multimedia and Expo(ICME)_**, London, United Kingdom, pp. 1-6, 2020. (Oral, **Best Paper Runner Up Award, Top 0.5%, Total 834**)
 
 
 ---
