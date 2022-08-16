@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zhiyuan Zha (查志远)
+title: Zhiyuan Zha
 comments: true
 permalink: /homepage/
 ---
