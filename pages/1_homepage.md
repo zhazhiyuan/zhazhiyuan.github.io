@@ -126,32 +126,11 @@ function toggleBibtex(articleid) {
 
 ---
 
-### Experiences 
-
-* 09/2018-06/2022: University of Electronic Science and Technology of China (UESTC); Bachelor student in Mathematics and Physics Basic Science.
-
----
-
 ### Awards
 
-* National Scholarship, 2020 and 2021
+* [Platinum Best Paper Award](https://zhazhiyuan.github.io/images/IMG_2698.png) at 17th IEEE International Conference on Multimedia and Expo (ICME), 2017.
 
-* Outstanding Students’ Scholarship of UESTC, 2019, 2020 and 2021
-
-* First Prize, _Huawei Scholarship_, 2021
-
-* First Prize, _Yunhui Award Special College Student Innovation and Entrepreneurship Program in UESTC_, 2021
-
-* Excellent class member of UESTC, 2019 and 2020
-
-* Honorable Mention, _Mathematical Contest In Modeling_, 2020
-
-* First Prize in Sichuan Province, _China Undergraduate Mathematical Contest in Modeling_, 2020
-
-* Third prize, _Southwest Hackathon Coding Contest_, 2020
-
-* Third prize, _Innovation Creavitivity Entrepreneurship” Competition_, 2021
-
+* [Best Paper Runner Up Award](https://zhazhiyuan.github.io/images/IMG_2698.png) at 20th IEEE International Conference on Multimedia and Expo (ICME), 2020.
 
 
 
