@@ -51,9 +51,7 @@ function toggleBibtex(articleid) {
 	
 ### Biography
  
-| <br>**Zhiyuan Zha** received the Ph.D. degree with the School of Electronic Science and Engineering, Nanjing University, Nanjing, China, in 2018. He is a Research Fellow with Nanyang Technological University, Singapore. His current research interests include inverse problems in image/video processing, sparse signal representation and machine learning. He was a recipient of the  Platinum Best Paper Award and  the Best Paper Runner Up Award at the IEEE International Conference on Multimedia and Expo  in 2017 and 2020, respectively. <br> <br> **Email:** <zhazhiyuan.mmd@gmail.com> <br> [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=hT-EiJEAAAAJ) &emsp;![image](https://zhazhiyuan.github.io/images/zhazhiyuan.JPG)&emsp; |
-
-
+| <br>**Zhiyuan Zha** received the Ph.D. degree with the School of Electronic Science and Engineering, Nanjing University, Nanjing, China, in 2018. He is a Research Fellow with Nanyang Technological University, Singapore. His current research interests include inverse problems in image/video processing, sparse signal representation and machine learning. He was a recipient of the  Platinum Best Paper Award and  the Best Paper Runner Up Award at the IEEE International Conference on Multimedia and Expo  in 2017 and 2020, respectively. <br> <br> **Email:** <zhazhiyuan.mmd@gmail.com> <br> [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=hT-EiJEAAAAJ) <br><br> &emsp;![image](https://zhazhiyuan.github.io/images/zhazhiyuan.JPG)&emsp; |
 
 ### Publications
 
