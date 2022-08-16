@@ -1,2 +1,2 @@
 # My Homepage
-This is the personal [homepage](http://zhazhiyuan.github.io) of Zhiyuan Zha.
+This is the personal [homepage](http://zhazhiyuan.github.io/homepage) of Zhiyuan Zha.
