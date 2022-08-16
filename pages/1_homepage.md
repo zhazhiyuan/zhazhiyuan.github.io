@@ -162,6 +162,13 @@ function toggleBibtex(articleid) {
 * [IEEE Transactions on Medical Imaging](http://www.ieee-tmi.org/)
 * [IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852)
 * [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97)
+* [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
+* [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
+* [Signal Processing](https://www.sciencedirect.com/journal/signal-processing)
+* [Signal Processing: Image Communication](https://www.sciencedirect.com/journal/signal-processing-image-communication)
+* [Journal of Visual Communication and Image Representation](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)
+* [IET Image Processing](https://digital-library.theiet.org/content/journals/iet-ipr)
+* [The Visual Computer](https://www.springer.com/journal/371)
 
 
 ---
