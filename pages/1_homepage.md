@@ -88,7 +88,13 @@ function toggleBibtex(articleid) {
 
 * Lanqing Guo, **Zhiyuan Zha**, Saiprasad Ravishankar, and Bihan Wen, "Exploiting Non-Local Priors via Self-Convolution for Highly-Efficient Image Restoration," **_IEEE Transactions on Image Processing_**, vol. 31, pp. 1311-1324, 2022. (IF: 11.041)
 
-* Chen Xiang, Wenjun Xia, Yan Liu, Hu Chen, Jiliu Zhou, **Zhiyuan Zha**, Bihan Wen, and Yi Zhang, "FONT-SIR: Fourth-Order Nonlocal Tensor Decomposition Model for Spectral CT Image Reconstruction," **_IEEE Transactions on Medical Imaging_**, vol. 41, no. 8, pp. 2144-2156, Aug. 2022. (IF: 11.037)
+* Chen Xiang, Wenjun Xia, Yan Liu, Hu Chen, Jiliu Zhou, **Zhiyuan Zha**, Bihan Wen, and Yi Zhang, "FONT-SIR: Fourth-Order Nonlocal Tensor Decomposition Model for Spectral CT Image Reconstruction," **_IEEE Transactions on Medical Imaging_**, vol. 41, no. 8, pp. 2144-2156, 2022. (IF: 11.037)
+
+#### Conference Papers
+
+* **Zhiyuan Zha**, Xin Liu, Xiaohua Huang, Henglin Shi, Yingyue Xu, Qiong Wang, Lan Tang and Xinggan Zhang. "Analyzing the group sparsity based on the rank minimization methods," **_17th IEEE International Conference on Multimedia and Expo (ICME)_**, Hong Kong, pp. 883-888, 2017. (Oral, **Platinum Best Paper Award, Top 0.5%, Total 850**)
+
+
 
 ---
 
