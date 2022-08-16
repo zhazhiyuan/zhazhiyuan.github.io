@@ -58,6 +58,21 @@ function toggleBibtex(articleid) {
 
 **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot, "Low-Rankness Guided Group Sparse Representation for Image Restoration, **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**, 2022. (IF: 14.255) [[PDF](https://ieeexplore.ieee.org/abstract/document/9705602)] [[Code](https://github.com/zhazhiyuan/LGSR_IR_Demo)]
 
+<div class="content">
+		<div class="grid3">
+			<div class="grid3-content">
+		<h3><b>Publications</b></h3>
+		<b>(* corresponding author)</b>
+                <h4><b>Journal</b></h4>
+		    <ul class="graid3-ul">
+	    <li class="graid3-li"><strong>Wenhan Yang</strong>, Robby T. Tan, Shiqi Wang, Alex C. Kot, and Jiaying Liu. "Learning to Remove Rain in Video with Self-Supervision", <i>Accepted by IEEE Trans. on Pattern Analysis and Machine Intelligence</i> (<i>TPAMI</i>), 2022. 
+            [<a href="https://flyywh.github.io/Publication.html" ;="">pdf</a>]
+		    
+		    
+		    
+		    
+		    
+
 	    <li class="graid3-li"><strong>Wenhan Yang</strong>, Robby T. Tan, Shiqi Wang, Alex C. Kot, and Jiaying Liu. "Learning to Remove Rain in Video with Self-Supervision", <i>Accepted by IEEE Trans. on Pattern Analysis and Machine Intelligence</i> (<i>TPAMI</i>), 2022. 
             [<a href="https://flyywh.github.io/Publication.html" ;="">pdf</a>]
 
