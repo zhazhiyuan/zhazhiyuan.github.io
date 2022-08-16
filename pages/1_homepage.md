@@ -137,15 +137,25 @@ function toggleBibtex(articleid) {
 
 ---
 
-### Academic Activities
+### Academic Service
 
-Peer-Reviewer: IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
+* Area Chair of IEEE 5th International Conference on Multimedia Information Processing and Retrieval (MIPR 2022) 
 
-Peer-Reviewer:  IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)
+* Session Chair of the 47th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022) 
 
-Video Presentation: Record video report on AAAI 2022
+#### Program Committee or Reviewer
 
-Video Presentation: Record video report on ACM Multimedia 2021
+* AAI Conference on Artificial Intelligence (AAAI), 2022-2023
+* IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020-2023
+* IEEE International Conference on Image Processing (ICIP), 2019-2023
+* IEEE International Conference on Multimedia and Expo (ICME), 2021-2022
+
+
+#### Journal Reviewer
+
+* [IEEE Signal Processing Magazine](https://signalprocessingsociety.org/tags/ieee-signal-processing-magazine)
+* [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
+* [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 
 
 ---
