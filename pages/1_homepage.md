@@ -56,8 +56,10 @@ function toggleBibtex(articleid) {
 
 #### Journal Papers
 
-<li>**Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot, "Low-Rankness Guided Group Sparse Representation for Image Restoration, **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**, 2022. (IF: 14.255) [[PDF](https://ieeexplore.ieee.org/abstract/document/9705602)] [[Code](https://github.com/zhazhiyuan/LGSR_IR_Demo)]
-</li>
+**Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot, "Low-Rankness Guided Group Sparse Representation for Image Restoration, **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**, 2022. (IF: 14.255) [[PDF](https://ieeexplore.ieee.org/abstract/document/9705602)] [[Code](https://github.com/zhazhiyuan/LGSR_IR_Demo)]
+
+	    <li class="graid3-li"><strong>Wenhan Yang</strong>, Robby T. Tan, Shiqi Wang, Alex C. Kot, and Jiaying Liu. "Learning to Remove Rain in Video with Self-Supervision", <i>Accepted by IEEE Trans. on Pattern Analysis and Machine Intelligence</i> (<i>TPAMI</i>), 2022. 
+            [<a href="https://flyywh.github.io/Publication.html" ;="">pdf</a>]
 
 * **Tianjing Zhang**, LiangJian Deng, Ting-Zhu Huang, Gemine Vivone and Jocelyn Chanussot. “Pansharpening via Triple-Double convolutional neural network.”  **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**.[[Project Page](https://liangjiandeng.github.io/index.html)][[PDF](https://liangjiandeng.github.io/papers/2022/zhang-tnnls2022.pdf)]<a href="javascript:toggleBibtex('zhangtnnls2022')" class="textlink">[BibTeX]</a>
 <div id="bib_zhangtnnls2022" class="BibTeX noshow">
