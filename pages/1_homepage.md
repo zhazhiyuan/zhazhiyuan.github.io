@@ -56,20 +56,10 @@ function toggleBibtex(articleid) {
 
 #### Journal Papers
 
-**Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot, "Low-Rankness Guided Group Sparse Representation for Image Restoration, **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**, 2022. (IF: 14.255) [[PDF](https://ieeexplore.ieee.org/abstract/document/9705602)] [[Code](https://github.com/zhazhiyuan/LGSR_IR_Demo)]
+* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot, "Low-Rankness Guided Group Sparse Representation for Image Restoration, **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**, 2022. (IF: 14.255) [[PDF](https://ieeexplore.ieee.org/abstract/document/9705602)] [[Code](https://github.com/zhazhiyuan/LGSR_IR_Demo)]
 
-<div class="content">
-		<div class="grid3">
-			<div class="grid3-content">
-		<h3><b>Publications</b></h3>
-		<b>(* corresponding author)</b>
-                <h4><b>Journal</b></h4>
-		    <ul class="graid3-ul">
-	    <li class="graid3-li"><strong>Wenhan Yang</strong>, Robby T. Tan, Shiqi Wang, Alex C. Kot, and Jiaying Liu. "Learning to Remove Rain in Video with Self-Supervision", <i>Accepted by IEEE Trans. on Pattern Analysis and Machine Intelligence</i> (<i>TPAMI</i>), 2022. 
-            [<a href="https://flyywh.github.io/Publication.html" ;="">pdf</a>]
-		    
-</ul>		    
-		    
+* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Joey Tianyi Zhou, Jiantao Zhou and Ce Zhu, "Triply Complementary Priors for Image Restoration," **_IEEE Transactions on Image Processing_**, vol. 30, pp. 5819-5834, 2021. (IF: 11.041) [[PDF](https://ieeexplore.ieee.org/abstract/document/9457041)]
+	    
 		    
 		     
 * **Tianjing Zhang**, LiangJian Deng, Ting-Zhu Huang, Gemine Vivone and Jocelyn Chanussot. “Pansharpening via Triple-Double convolutional neural network.”  **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**.[[Project Page](https://liangjiandeng.github.io/index.html)][[PDF](https://liangjiandeng.github.io/papers/2022/zhang-tnnls2022.pdf)]<a href="javascript:toggleBibtex('zhangtnnls2022')" class="textlink">[BibTeX]</a>
