@@ -48,7 +48,7 @@ function toggleBibtex(articleid) {
 	
 ### Biography
  
-| <br>**Tian-Jing Zhang （张添敬）** is a senior student majoring in Mathematics and Physics Basic Science in [Yingcai Honors College (英才实验学院)](https://www.yingcai.uestc.edu.cn/), <a href="https://www.uestc.edu.cn/">UESTC (电子科技大学)</a>, supervised by <a href="https://liangjiandeng.github.io/" > Prof. Liang-Jian Deng</a>. I'm broadly interested in computer vision and deep learning. My current research focuses on remote sensing pansharpening, image fusion and deep learning. I will pursue my Ph.D. degree in <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a>, National University of Singapore (NUS).  <br> <br> **Email：** <zhangtianjinguestc@163.com> <br><br>|  ![image](https://zhazhiyuan.github.io/images/IMG_2698.JPG)|
+| <br>**Zhiyuan Zha (查志远）** is a postdoctoral research fellow at the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, working with [Prof. Bihan Wen](https://personal.ntu.edu.sg/bihan.wen/). Prior to that, I was a postdoctoral research fellow at the School of Information and Communication Engineering, University of Electronic Science and Technology of China, Chengdu, China, working with [Prof. Ce Zhu](http://www.avc2-lab.net/~eczhu/). I received a Ph.D. degree from the School of Electronic Science and Engineering, Nanjing University, Nanjing, China, in 2018. My research interests include inverse problems in image/video processing, sparse signal representation, and machine learning. <br> <br> **Email：** <zhazhiyuan.mmd@gmail.com>, <zhiyuan.zha@ntu.edu.sg> <br><br>|  ![image](https://zhazhiyuan.github.io/images/IMG_2698.JPG)|
 
 
 
