@@ -65,7 +65,7 @@ function toggleBibtex(articleid) {
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou and Ce Zhu, "Image Restoration via Reconciliation of Group Sparsity and Low-Rank Models," **_IEEE Transactions on Image Processing_**, vol. 30, pp. 5223-5238, 2021. (IF: 10.856)
 
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot, "A Hybrid Structural Sparsification Error Model for Image Restoration," **_IEEE Transactions on Neural Networks and Learning Systems_**, 2021. (IF: 10.451)
-* 
+ 
 * **Zhiyuan Zha**, Xin Yuan, Jiantao Zhou, Ce Zhu and Bihan Wen. "Image restoration via simultaneous nonlocal self-similarity priors,"  **_IEEE Transactions on Image Processing_**, vol. 29, pp. 8561-8576, 2020. (IF: 9.340)	    
 
 * **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiantao Zhou and Ce Zhu. "Group Sparsity Residual Constraint With Non-Local Priors for Image Restoration,"  **_IEEE Transactions on Image Processing_**, vol. 29, pp. 8960-8975, 2020. (IF: 9.340)
@@ -75,6 +75,16 @@ function toggleBibtex(articleid) {
 * **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiantao Zhou, Jiachao Zhang and Ce Zhu. "A benchmark for sparse coding: When group sparsity meets rank minimization," **_IEEE Transactions on Image Processing_**, vol. 29, pp. 5094-5109, 2020. (IF: 9.340)
 
 * **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiantao Zhou, Jiachao Zhang and Ce Zhu. "From rank estimation to rank approximation: Rank residual constraint for image restoration,"  **_IEEE Transactions on Image Processing_**, vol. 29, pp. 3254-3269, 2020. (IF: 9.340)
+
+* **Zhiyuan Zha**, Xinggan Zhang, Yu Wu, Qiong Wang, Xin Liu, Lan Tang and Xin Yuan. "Non-convex weighted Lp nuclear norm based ADMM framework for image restoration," **_Neurocomputing_**, vol. 311, pp. 209-224, 2018. (IF: 3.241)
+
+* **Zhiyuan Zha**, Xinggan Zhang, Qiong Wang, Lan Tang and Xin Liu. "Group-based sparse representation for image compressive sensing reconstruction with non-convex regularization," **_Neurocomputing_**, vol. 296, pp. 55-63, 2018. (IF: 3.241)
+
+* **Zhiyuan Zha**, Xinggan Zhang, Qiong Wang, Yechao Bai, Yang Chen, Lan Tang and Xin Liu. "Group sparsity residual constraint for image denoising with external nonlocal self-similarity prior," **_Neurocomputing_**, vol. 275, pp. 2294-2306, 2018. (IF: 3.241)
+
+* **Zhiyuan Zha**, Xin Liu, Xinggan Zhang, Yang Chen, Lan Tang, Yechao Bai, Qiong Wang and Zhenhong Shang. "Compressed sensing image reconstruction via adaptive sparse nonlocal regularization," **_The Visual Computer_**, vol. 34, pp. 117–137, 2018. (IF: 1.036)
+
+* Qiong Wang, Xinggan Zhang, Yu Wu, Lan Tang and **Zhiyuan Zha**. "Nonconvex Weighted Lp Minimization Based Group Sparse Representation Framework for Image Denoising," **_IEEE Signal Processing Letters_**, vol. 24, no. 11, pp. 1686-1690, Nov. 2017. (IF: 2.528)
 
 ---
 
