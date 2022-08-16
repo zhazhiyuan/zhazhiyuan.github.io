@@ -51,7 +51,9 @@ function toggleBibtex(articleid) {
 	
 ### Biography
  
-| <br>**Zhiyuan Zha** is pursuing the Ph.D. degree in [XPixel Group](http://xpixel.group/index.html), Shenzhen Institutes of Advanced Technology ([SIAT](https://www.siat.ac.cn/)), Chinese Academy of Sciences ([CAS](https://english.cas.cn/index.shtml)). He is supervised by Prof. [Chao Dong](http://xpixel.group/2010/01/20/chaodong.html). He obtained his Bachelor and Master degrees in Mathematics (supervised by Prof. [Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and Prof. [Liang-Jian Deng](https://liangjiandeng.github.io/)) from the University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)), Chengdu, China in 2019 and 2022. His research interests include image processing and deep learning. <br> <br> **Email:** <jf.hu1@siat.ac.cn> <br> **Follow Me:** [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=hT-EiJEAAAAJ) &emsp; [Github](https://github.com/J-FHu) <br><br>| &emsp;![image](https://J-FHu.github.io/images/Hu.jpg)&emsp; |
+| <br>**Zhiyuan Zha** received the Ph.D. degree with the School of Electronic Science and Engineering, Nanjing University, Nanjing, China, in 2018. He is a Research Fellow with Nanyang Technological University, Singapore. His current research interests include inverse problems in image/video processing, sparse signal representation and machine learning. He was a recipient of the  Platinum Best Paper Award and  the Best Paper Runner Up Award at the IEEE International Conference on Multimedia and Expo  in 2017 and 2020, respectively. <br> <br> **Email:** <zhazhiyuan.mmd@gmail.com, zhiyuan.zha@ntu.edu.sg.> <br> **[Google Scholar]** (https://scholar.google.com/citations?user=JgiasCAAAAAJ&hl=en)&emsp;![image](https://zhazhiyuan.github.io/images/Zha.jpg)&emsp; |
+
+# is pursuing the Ph.D. degree in [XPixel Group](http://xpixel.group/index.html), 
 
 
 
