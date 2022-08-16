@@ -1,7 +1,7 @@
 # Site settings
-title: Homepage of Jinfan Hu
-email: hujf0206@163.com
-description: Jinfan Hu
+title: Homepage of Zhiyuan Zha
+email: zhazhiyuan.mmd@gmail.com, zhiyuan.zha@ntu.edu.sg.
+description: Zhiyuan Zha
 # > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
@@ -10,7 +10,7 @@ description: Jinfan Hu
 # baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username: J-FHu
+github_username: zhazhiyuan
 permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
 # viewsourceroot: https://github.com/YuBangZheng/yubangzheng.github.io/blob/master/
