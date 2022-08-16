@@ -84,7 +84,7 @@ function toggleBibtex(articleid) {
 
 * **Zhiyuan Zha**, Xin Liu, Xinggan Zhang, Yang Chen, Lan Tang, Yechao Bai, Qiong Wang and Zhenhong Shang. "Compressed sensing image reconstruction via adaptive sparse nonlocal regularization," **_The Visual Computer_**, vol. 34, pp. 117–137, 2018. (IF: 1.036)
 
-* Qiong Wang, Xinggan Zhang, Yu Wu, Lan Tang and **Zhiyuan Zha* **. "Nonconvex Weighted Lp Minimization Based Group Sparse Representation Framework for Image Denoising," **_IEEE Signal Processing Letters_**, vol. 24, no. 11, pp. 1686-1690, Nov. 2017. (IF: 2.528)
+* Qiong Wang, Xinggan Zhang, Yu Wu, Lan Tang and **Zhiyuan Zha# **. "Nonconvex Weighted Lp Minimization Based Group Sparse Representation Framework for Image Denoising," **_IEEE Signal Processing Letters_**, vol. 24, no. 11, pp. 1686-1690, Nov. 2017. (IF: 2.528)
 
 ---
 
