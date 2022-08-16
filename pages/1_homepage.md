@@ -1,12 +1,9 @@
 ---
 layout: page
-title: Zhiyuan Zha
+title: Tian-Jing Zhang
 comments: true
 permalink: /homepage/
 ---
-
-* content
-{:toc}
 
 <style>
 .biblist { }
@@ -30,7 +27,7 @@ div.BibTeX {
   padding: 0.3em 0.5em;
   background: #eeeeee;
 }
-div.BibTeX pre { font-size: 85%; overflow: auto;  width: 100%; }
+div.BibTeX pre { font-size: 100%; overflow: auto;  width: 100%; }
 </style>
 
 <script>
@@ -51,24 +48,38 @@ function toggleBibtex(articleid) {
 	
 ### Biography
  
-| <br>**Zhiyuan Zha** received the Ph.D. degree with the School of Electronic Science and Engineering, Nanjing University, Nanjing, China, in 2018. He is a Research Fellow with Nanyang Technological University, Singapore. His current research interests include inverse problems in image/video processing, sparse signal representation and machine learning. He was a recipient of the  Platinum Best Paper Award and  the Best Paper Runner Up Award at the IEEE International Conference on Multimedia and Expo  in 2017 and 2020, respectively. <br> <br> **Email:** <zhazhiyuan.mmd@gmail.com> <br> [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=hT-EiJEAAAAJ) <br><br> &emsp;![image](https://zhazhiyuan.github.io/images/zhazhiyuan.JPG)&emsp; |
+| <br>**Tian-Jing Zhang （张添敬）** is a senior student majoring in Mathematics and Physics Basic Science in [Yingcai Honors College (英才实验学院)](https://www.yingcai.uestc.edu.cn/), <a href="https://www.uestc.edu.cn/">UESTC (电子科技大学)</a>, supervised by <a href="https://liangjiandeng.github.io/" > Prof. Liang-Jian Deng</a>. I'm broadly interested in computer vision and deep learning. My current research focuses on remote sensing pansharpening, image fusion and deep learning. I will pursue my Ph.D. degree in <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a>, National University of Singapore (NUS).  <br> <br> **Email：** <zhangtianjinguestc@163.com> <br><br>|  ![image](https://zhazhiyuan.github.io/images/zhazhiyuan.jpg)|
+
+
 
 ### Publications
 
-**Accepted**
-
-
-* **J.-F. Hu**, T.-Z. Huang, L.-J. Deng, H.-X. Dou, D. Hong, G. Vivone. Fusformer: A Transformer-based Fusion Approach for Hyperspectral Image Super-resolution. **_IEEE Geoscience and Remote Sensing Letters_**, 2022.
-
-
-* S. Peng, **J.-F. Hu**, Y.-W. Zhuo, L.-J. Deng. Source-Adaptive Discriminative Kernels based Network for Remote Sensing Pansharpening. **_International Joint Conferences on Artificial Intelligence (IJCAI)_**, 2022. 
-<a href="javascript:toggleBibtex('pengijcai2022')" class="textlink">[BibTeX]</a>
-<div id="bib_pengijcai2022" class="BibTeX noshow">
+* **Tianjing Zhang**, LiangJian Deng, Ting-Zhu Huang, Gemine Vivone and Jocelyn Chanussot. “Pansharpening via Triple-Double convolutional neural network.”  **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**.[[Project Page](https://liangjiandeng.github.io/index.html)][[PDF](https://liangjiandeng.github.io/papers/2022/zhang-tnnls2022.pdf)]<a href="javascript:toggleBibtex('zhangtnnls2022')" class="textlink">[BibTeX]</a>
+<div id="bib_zhangtnnls2022" class="BibTeX noshow">
 <pre>
-@ARTICLE{pengijcai2022,
-	author={S. Peng, L.-J. Deng, J.-F. Hu, and Y.-W. Zhuo},
-	journal={International Joint Conferences on Artificial Intelligence (IJCAI)}, 
-	title={Source-Adaptive Discriminative Kernels based Network for Remote Sensing Pansharpening}, 
+@ARTICLE{zhangtnnls2022,
+	author={T.-J. Zhang, L.-J. Deng, T.-Z. Huang, J. Chanussot, and G. Vivone},
+	journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+	title={A Triple-Double Convolutional Neural Network for Panchromatic Sharpening}, 
+	year={2022},
+	volume={},
+	number={},
+	pages={},
+	doi={10.1109/TNNLS.2022.3155655}
+   }
+</pre>
+</div>
+
+* **Tianjing Zhang**, LiangJian Deng, ZhongCheng Wu and ChaoChao Zheng “An iterative approach for image fusion with dynamic gradient sparsity and anisotropic spectral-spatial total variation.”  **_Signal, Image and Video Processing_**.
+
+
+* ZiRong Jin#,  **TianJing Zhang#**, LiangJian Deng, and TaiXiang Jiang. “LAGConv: Local-Context Adaptive Convolution Kernels with Global Harmonic Bias for Pansharpening.”  **_AAAI Conference on Artificial Intelligence (AAAI 2022)_**. (#: equal contribution)[[Project Page](https://github.com/liangjiandeng/TDNet)][[PDF](https://liangjiandeng.github.io/papers/2022/jin-aaai2022.pdf)]<a href="javascript:toggleBibtex('jinif2021')" class="textlink">[BibTeX]</a>
+<div id="bib_jinif2021" class="BibTeX noshow">
+<pre>
+@ARTICLE{jinif2021,
+	author={Jin, Zi-Rong and Zhang, Tian-Jing and Jiang, Tai-Xiang and Vivone, Gemine and Deng, Liang-Jian},
+	journal={AAAI Conference on Artificial Intelligence (AAAI)}, 
+	title={LAGConv: Local-context Adaptive Convolution Kernels with Global Harmonic Bias for Pansharpening}, 
 	year={2022},
 	volume={},
 	number={},
@@ -76,101 +87,102 @@ function toggleBibtex(articleid) {
 	doi={}
    }
 </pre>
-</div>   
-
-* **J.-F. Hu**, T.-Z. Huang, L.-J. Deng, T.-X. Jiang, G. Vivone, and J. Chanussot. Hyperspectral Image Super-Resolution via Deep Spatiospectral Attention Convolutional Neural Networks. **_IEEE Transactions on Neural Networks and Learning Systems_**, 2021, doi: 10.1109/TNNLS.2021.3084682. [[Project Page](https://liangjiandeng.github.io/Projects_Res/HSRnet_2021tnnls.html)][[PDF](https://liangjiandeng.github.io/papers/2021/HSRnet_tnnls_2021.pdf)]<a href="javascript:toggleBibtex('Hutnnls')" class="textlink">[BibTeX]</a>
-<div id="bib_Hutnnls" class="BibTeX noshow">
-<pre>
-@ARTICLE{Hutnnls,
-	author={Hu, Jin-Fan and Huang, Ting-Zhu and Deng, Liang-Jian and Jiang, Tai-Xiang and Vivone, Gemine and Chanussot, Jocelyn},
-	journal={IEEE Transactions on Neural Networks and Learning Systems}, 
-	title={Hyperspectral Image Super-Resolution via Deep Spatiospectral Attention Convolutional Neural Networks}, 
-	year={2021},
-	doi={10.1109/TNNLS.2021.3084682}
-   }
-</pre>
 </div>
 
-* T. Xu, T.-Z. Huang, L.-J. Deng, X.-L Zhao, and **J.-F. Hu**. Exemplar-based Image Inpainting Using Adaptive Two-Stage Structure-Tensor Based Priority Function and Nonlocal Filtering. **_Journal of Visual Communication and Image Representation_**, 2021.
-<a href="javascript:toggleBibtex('xu2022exemplar')" class="textlink">[BibTeX]</a>
-<div id="bib_xu2022exemplar" class="BibTeX noshow">
+* ZiRong Jin, YuWei Zhuo, **TianJing Zhang**, XiaoXu Jin and LiangJian Deng.“Parallel Full Depth Feature Fusion Network for Pansharpening.” **_IEEE Transactions on Geoscience and Remote Sensing_**.
+
+* ZiRong Jin, **TianJing Zhang**, Cheng Jin and LiangJian Deng. “Weighted shallow-deep feature fusion network for pansharpening.” **_2021 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2021)_**
+
+* ShiShi Xiao, Cheng Jin, **TianJing Zhang**, Ran Ran and LiangJian Deng. “Progressice band- convolutional neural network for pansharpening.” **_2021 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2021)_**
+
+* YuDong Wang, LiangJian Deng, and **TianJing Zhang**.“SSconv: Explicit Spectral-to-Spatial Convolution for Pansharpening.” **_2021 ACM International Conference on Multimedia (ACM MM 2021)_**. doi: 10.1145/3474085.3475600. [[Project Page](https://github.com/liangjiandeng/MUCNN)][[PDF](https://liangjiandeng.github.io/papers/2021/mucnn_mm2021/mucnn_mm2021.pdf)]<a href="javascript:toggleBibtex('mucnn')" class="textlink">[BibTeX]</a>
+<div id="bib_mucnn" class="BibTeX noshow">
 <pre>
-@article{xu2022exemplar,
-  title={Exemplar-based image inpainting using adaptive two-stage structure-tensor based priority function and nonlocal filtering},
-  author={Xu, Ting and Huang, Ting-Zhu and Deng, Liang-Jian and Zhao, Xi-Le and Hu, Jin-Fan},
-  journal={Journal of Visual Communication and Image Representation},
-  pages={103430},
-  year={2022},
-  publisher={Elsevier}
+@ARTICLE{mucnn,
+author={Yudong Wang, Liang-Jian Deng, Tian-Jing Zhang, Xiao Wu},
+booktitle={Proceedings of the 29th ACM International Conference on Multimedia (ACM MM)},
+title={SSconv: Explicit Spectral-to-Spatial Convolution for Pansharpening},
+year={2021},
+pages={DOI: 10.1145/3474085.3475600.},
 }
 </pre>
 </div>
-
-
-
-* Z.-C. Wu, T.-Z. Huang, L.-J. Deng, **J.-F. Hu**, and G. Vivone. VO+ Net: An Adaptive Approach Using Variational Optimization and Deep Learning for Panchromatic Sharpening. **_IEEE Transactions on Geoscience and Remote Sensing_**, 2021, doi: 10.1109/TGRS.2021.3066425. [[Project page](https://liangjiandeng.github.io/Projects_Res/VOFF_2021tgrs.html)][[PDF](https://liangjiandeng.github.io/papers/2021/VOFF.pdf)]<a href="javascript:toggleBibtex('Wu2021VO')" class="textlink">[BibTeX]</a>
-<div id="bib_Wu2021VO" class="BibTeX noshow">
+* ZiRong Jin, LiangJian Deng, **TianJing Zhang** and XiaoXu Jin.“BAM: Bilateral Activation Mechanism for Image Fusion.”**_2021 ACM International Conference on Multimedia (ACM MM 2021)_**. doi: 10.1145/3474085.3475571. [[Project Page](https://liangjiandeng.github.io/Projects_Res/bam_mm2021.html)][[PDF](https://liangjiandeng.github.io/papers/2021/bam_mm2021.pdf)]<a href="javascript:toggleBibtex('BAM')" class="textlink">[BibTeX]</a>
+<div id="bib_BAM" class="BibTeX noshow">
 <pre>
-@ARTICLE{Wu2021VO,
-	author={Z.-C. Wu and T.-Z. Huang and L.-J. Deng and J.-F. Hu and G. Vivone},
-	journal={IEEE Transactions on Geoscience and Remote Sensing},
-	title={VO+Net: An Adaptive Approach Using Variational Optimization and Deep Learning for Panchromatic Sharpening},
+@ARTICLE{BAM,
+author={Zi-Rong Jin , Liang-Jian Deng, Tian-Jing Zhang, Xiaoxu Jin},
+journal={Proceedings of the 29th ACM International Conference on Multimedia (ACM MM)},
+title={BAM: Bilateral Activation Mechanism for Image Fusion},
+year={2021},
+volume={},
+number={},
+pages={DOI: 10.1145/3474085.3475571},
+}
+</pre>
+</div>
+* Wu Xiao, TingZhu Huang, LiangJian Deng and **TianJing Zhang**. “Dynamic Cross Feature Fusion for Remote Sensing Pansharpening”**_IEEE International Conference on Computer Vision (ICCV 2021)_**. doi: 10.1145/3474085.3475571. [[Project Page will be available](https://github.com/liangjiandeng/MUCNN)][[PDF](https://liangjiandeng.github.io/papers/2021/dfcnet2021.pdf)]<a href="javascript:toggleBibtex('wu_iccv2021')" class="textlink">[BibTeX]</a>
+<div id="bib_wu_iccv2021" class="BibTeX noshow">
+<pre>
+@ARTICLE{wu_iccv2021,
+	author={Wu, Xiao and Huang, Ting-Zhu and Deng, Liang-Jian and Zhang, Tian-Jing},
+	journal={IEEE International Conference on Computer Vision (ICCV)}, 
+	title={Dynamic Cross Feature Fusion for Remote Sensing Pansharpening}, 
 	year={2021},
-	doi={10.1109/TGRS.2021.3066425}
+	doi={}
    }
 </pre>
 </div>
-
-* Z.-C. Wu, T.-Z. Huang, L.-J. Deng, G. Vivone, J.-Q Miao, **J.-F. Hu**, and X.-L Zhao. A New Variational Approach Based on Proximal Deep Injection and Gradient Intensity Similarity for Spatio-Spectral Image Fusion. **_IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_**, vol. 13, pp. 6277-6290, 2020. [[Project page](https://liangjiandeng.github.io/Projects_Res/DMPIF_2020jstars.html)][[PDF](https://liangjiandeng.github.io/papers/2020/dmpif_2020jstars.pdf)]<a href="javascript:toggleBibtex('Wu')" class="textlink">[BibTeX]</a>
-<div id="bib_Wu" class="BibTeX noshow">
-<pre>
-@ARTICLE{Wu,  
-  title={A new variational approach based on proximal deep injection and gradient intensity similarity for spatio-spectral image fusion},
-   author={Wu, Zhong-Cheng and Huang, Ting-Zhu and Deng, Liang-Jian and Vivone, Gemine and Miao, Jia-Qing and Hu, Jin-Fan and Zhao, Xi-Le},
-   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
-   volume={13},
-   pages={6277--6290},
-   year={2020},
-   publisher={IEEE}
-   }
-</pre>
-</div>
-
 
 
 ---
 
 ### Experiences 
 
-* 09/2022-present: Shenzhen Institutes of Advanced Technology ([SIAT](https://www.siat.ac.cn/)), University of Chinese Academy of Sciences ([UCAS](https://www.ucas.ac.cn/)); Ph.D. student in Computer Science. (Supervisor: Prof. [Chao Dong](http://xpixel.group/2010/01/20/chaodong.html))
-
-* 09/2019-06/2022: University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)); Master student in Mathematics. (Supervisor: Prof. [Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and Prof. [Liang-Jian Deng](https://liangjiandeng.github.io/))
-
-* 09/2015-06/2019: University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)); Bachelor student in Information and Computing Science.
+* 09/2018-06/2022: University of Electronic Science and Technology of China (UESTC); Bachelor student in Mathematics and Physics Basic Science.
 
 ---
 
-### Honors and Awards
-* National Scholarship, UESTC, 2021
+### Awards
 
-* Academic Scholarship, UESTC, 2020 and 2021
+* National Scholarship, 2020 and 2021
 
-* National First Prize of [CUMCM](http://www.mcm.edu.cn/), UESTC, 2017
+* Outstanding Students’ Scholarship of UESTC, 2019, 2020 and 2021
 
-* People Scholarship, UESTC, 2017 and 2018
+* First Prize, _Huawei Scholarship_, 2021
+
+* First Prize, _Yunhui Award Special College Student Innovation and Entrepreneurship Program in UESTC_, 2021
+
+* Excellent class member of UESTC, 2019 and 2020
+
+* Honorable Mention, _Mathematical Contest In Modeling_, 2020
+
+* First Prize in Sichuan Province, _China Undergraduate Mathematical Contest in Modeling_, 2020
+
+* Third prize, _Southwest Hackathon Coding Contest_, 2020
+
+* Third prize, _Innovation Creavitivity Entrepreneurship” Competition_, 2021
+
+
+
+
 
 ---
 
 ### Academic Activities
 
-Peer-Reviewer: 
-* IEEE Transactions on Geoscience And Remote Sensing (IEEE TGRS)
+Peer-Reviewer: IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
 
-* IEEE Geoscience and Remote Sensing Letters (IEEE GRSL)
+Peer-Reviewer:  IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)
 
-* IEEE Transactions on Computational Imaging (IEEE TCI)
+Video Presentation: Record video report on AAAI 2022
+
+Video Presentation: Record video report on ACM Multimedia 2021
+
 
 ---
+
+For more information, please refer to <a href="https://tianjingzhang.github.io/cv.pdf">my resumé</a>.
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=573geowbknl&amp;m=7&amp;c=ffc000&amp;cr1=ffffff&amp;f=arial&amp;l=1&amp;s=170&amp;bv=70" async="async"></script>
 
