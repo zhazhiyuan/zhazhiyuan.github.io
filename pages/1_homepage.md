@@ -64,9 +64,9 @@ function toggleBibtex(articleid) {
 
 * **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiachao Zhang and Ce Zhu, "Non-Convex Structural Sparsity Residual Constraint for Image Restoration", **_IEEE Transactions on Cybernetics_**, 2021. (IF: 11.448) [[PDF](https://ieeexplore.ieee.org/abstract/document/9463879)] [[Code](https://github.com/zhazhiyuan/NSSRC_Demo.git)]
 	    
-* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou and Ce Zhu, "Image Restoration via Reconciliation of Group Sparsity and Low-Rank Models", **_IEEE Transactions on Image Processing_**, vol. 30, pp. 5223-5238, 2021. (IF: 10.856) ([PDF](https://ieeexplore.ieee.org/abstract/document/9435965))
+* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou and Ce Zhu, "Image Restoration via Reconciliation of Group Sparsity and Low-Rank Models", **_IEEE Transactions on Image Processing_**, vol. 30, pp. 5223-5238, 2021. (IF: 10.856) ([PDF](https://ieeexplore.ieee.org/abstract/document/9435965)) [[Code](https://github.com/zhazhiyuan/LR-GSC-Demo.git)]
 
-* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot, "A Hybrid Structural Sparsification Error Model for Image Restoration", **_IEEE Transactions on Neural Networks and Learning Systems_**, 2021. (IF: 10.451) ([PDF](https://ieeexplore.ieee.org/abstract/document/9361634))
+* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot, "A Hybrid Structural Sparsification Error Model for Image Restoration", **_IEEE Transactions on Neural Networks and Learning Systems_**, 2021. (IF: 10.451) ([PDF](https://ieeexplore.ieee.org/abstract/document/9361634)) [[Code](https://github.com/zhazhiyuan/HSSE_IR_Demo.git)]
  
 * **Zhiyuan Zha**, Xin Yuan, Jiantao Zhou, Ce Zhu and Bihan Wen. "Image restoration via simultaneous nonlocal self-similarity priors",  **_IEEE Transactions on Image Processing_**, vol. 29, pp. 8561-8576, 2020. (IF: 9.340)	([PDF](https://ieeexplore.ieee.org/abstract/document/9173764))    
 
