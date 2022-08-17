@@ -60,7 +60,7 @@ function toggleBibtex(articleid) {
 
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot, "Low-Rankness Guided Group Sparse Representation for Image Restoration", **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**, 2022. (IF: 14.255) [[PDF](https://ieeexplore.ieee.org/abstract/document/9705602)] [[Code](https://github.com/zhazhiyuan/LGSR_IR_Demo.git)]
 
-* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Joey Tianyi Zhou, Jiantao Zhou and Ce Zhu, "Triply Complementary Priors for Image Restoration",  **_IEEE Transactions on Image Processing_**, vol. 30, pp. 5819-5834, 2021. (IF: 10.856) [[PDF](https://ieeexplore.ieee.org/abstract/document/9457041)]
+* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Joey Tianyi Zhou, Jiantao Zhou and Ce Zhu, "Triply Complementary Priors for Image Restoration",  **_IEEE Transactions on Image Processing_**, vol. 30, pp. 5819-5834, 2021. (IF: 10.856) [[PDF](https://ieeexplore.ieee.org/abstract/document/9457041)] [[Code](https://github.com/zhazhiyuan/H-PnP-Demo.git)]
 
 * **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiachao Zhang and Ce Zhu, "Non-Convex Structural Sparsity Residual Constraint for Image Restoration", **_IEEE Transactions on Cybernetics_**, 2021. (IF: 11.448) [[PDF](https://ieeexplore.ieee.org/abstract/document/9463879)]
 	    
