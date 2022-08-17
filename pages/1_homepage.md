@@ -108,9 +108,9 @@ function toggleBibtex(articleid) {
 
 * **Zhiyuan Zha**, Xin Yuan, Jiantao Zhou, Joey Tianyi Zhou, Bihan Wen and Ce Zhu, "The Power Of Triply Complementary Priors For Image Compressive Sensing", **_27th IEEE International Conference on Image Processing (ICIP)_**, Abu Dhabi, United Arab Emirates, pp. 983-987, 2020. (Oral) ([PDF](https://ieeexplore.ieee.org/abstract/document/9190707))
 
-* **Zhiyuan Zha**, Bihan Wen, Jiachao Zhang, Jiantao Zhou and Ce Zhu. "A Comparative Study for the Nuclear Norms Minimization Methods", **_26th IEEE International Conference on Image Processing (ICIP)_**, Taipei, China, pp. 2050-2054, 2019. (Poster) ([PDF](https://ieeexplore.ieee.org/abstract/document/8803145))
+* **Zhiyuan Zha**, Bihan Wen, Jiachao Zhang, Jiantao Zhou and Ce Zhu. "A Comparative Study for the Nuclear Norms Minimization Methods", **_26th IEEE International Conference on Image Processing (ICIP)_**, Taiwan, China, pp. 2050-2054, 2019. (Poster) ([PDF](https://ieeexplore.ieee.org/abstract/document/8803145))
 
-* **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiachao Zhang, Jiantao Zhou and Ce Zhu. "Simultaneous Nonlocal Self-Similarity Prior for Image Denoising", **_26th IEEE International Conference on Image Processing (ICIP)_**, Taipei, China, pp. 1119-1123, 2019. (Poster) ([PDF](https://ieeexplore.ieee.org/abstract/document/8804272))
+* **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiachao Zhang, Jiantao Zhou and Ce Zhu. "Simultaneous Nonlocal Self-Similarity Prior for Image Denoising", **_26th IEEE International Conference on Image Processing (ICIP)_**, Taiwan, China, pp. 1119-1123, 2019. (Poster) ([PDF](https://ieeexplore.ieee.org/abstract/document/8804272))
 
 * **Zhiyuan Zha**, Xinggan Zhang, Qiong Wang, Yechao Bai, Lan Tang and Xin Yuan. "Group sparsity residual with non-local samples for image denoising", **_43th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Calgary, AB, pp. 1353-1357, 2018. (Oral) ([PDF](https://ieeexplore.ieee.org/abstract/document/8461388))
 
