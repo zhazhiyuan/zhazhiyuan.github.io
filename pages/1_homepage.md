@@ -76,7 +76,7 @@ function toggleBibtex(articleid) {
 
 * **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiantao Zhou, Jiachao Zhang and Ce Zhu. "A benchmark for sparse coding: When group sparsity meets rank minimization", **_IEEE Transactions on Image Processing_**, vol. 29, pp. 5094-5109, 2020. (IF: 9.340) ([PDF](https://ieeexplore.ieee.org/abstract/document/9031694)) [[Code](https://github.com/zhazhiyuan/GSC-WLP-Demo.git)]
 
-* **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiantao Zhou, Jiachao Zhang and Ce Zhu. "From rank estimation to rank approximation: Rank residual constraint for image restoration",  **_IEEE Transactions on Image Processing_**, vol. 29, pp. 3254-3269, 2020. (IF: 9.340) ([PDF](https://ieeexplore.ieee.org/abstract/document/8931738)) [[](https://github.com/zhazhiyuan/RRC-Demo.git)]
+* **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiantao Zhou, Jiachao Zhang and Ce Zhu. "From rank estimation to rank approximation: Rank residual constraint for image restoration",  **_IEEE Transactions on Image Processing_**, vol. 29, pp. 3254-3269, 2020. (IF: 9.340) ([PDF](https://ieeexplore.ieee.org/abstract/document/8931738)) [[Code](https://github.com/zhazhiyuan/RRC-Demo.git)]
 
 * **Zhiyuan Zha**, Xinggan Zhang, Yu Wu, Qiong Wang, Xin Liu, Lan Tang and Xin Yuan. "Non-convex weighted Lp nuclear norm based ADMM framework for image restoration", **_Neurocomputing_**, vol. 311, pp. 209-224, 2018. (IF: 3.241) ([PDF](https://www.sciencedirect.com/science/article/abs/pii/S0925231218306581)) [[Code](https://github.com/zhazhiyuan/WLP-ADMM-Demo.git)]
 
