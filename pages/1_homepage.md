@@ -166,6 +166,7 @@ function toggleBibtex(articleid) {
 * [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
 * [Signal Processing](https://www.sciencedirect.com/journal/signal-processing)
 * [Signal Processing: Image Communication](https://www.sciencedirect.com/journal/signal-processing-image-communication)
+* [Digital Signal Processing](https://www.sciencedirect.com/journal/digital-signal-processing)
 * [Journal of Visual Communication and Image Representation](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)
 * [The Visual Computer](https://www.springer.com/journal/371)
 * [IET Image Processing](https://digital-library.theiet.org/content/journals/iet-ipr)
