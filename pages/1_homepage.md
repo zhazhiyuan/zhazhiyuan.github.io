@@ -116,11 +116,11 @@ function toggleBibtex(articleid) {
 
 * **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiantao Zhou and Ce Zhu. "Joint patch-group based sparse representation for image inpainting", **_10th Asian Conference on Machine Learning (ACML)_**, Bejing, China, pp. 145-160. 2018. (Oral) ([PDF](https://proceedings.mlr.press/v95/zha18a.html)) [[Code](https://github.com/zhazhiyuan/JPG-SR-Inpainting-L0-Demo.git)]
 
-* **Zhiyuan Zha**, Xin Liu, Ziheng Zhou, Xiaohua Huang, Jingang Shi, Zhenhong Shang, Lan Tang, Yechao Bai, Qiong Wang and Xinggan Zhang. "Image denoising via group sparsity residual constraint", **_42th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, New Orleans, LA, pp. 1787-1791, 2017. (Poster) ([PDF](https://ieeexplore.ieee.org/abstract/document/7952464))
+* **Zhiyuan Zha**, Xin Liu, Ziheng Zhou, Xiaohua Huang, Jingang Shi, Zhenhong Shang, Lan Tang, Yechao Bai, Qiong Wang and Xinggan Zhang. "Image denoising via group sparsity residual constraint", **_42th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, New Orleans, LA, pp. 1787-1791, 2017. (Poster) ([PDF](https://ieeexplore.ieee.org/abstract/document/7952464)) [[Code](https://github.com/zhazhiyuan/GSRC-Demo.git)]
 
-* **Zhiyuan Zha**, Xinggan Zhang, Qiong Wang, Yechao Bai and Lan Tang. "Image denoising using group sparsity residual and external nonlocal self-similarity prior", **_24th IEEE International Conference on Image Processing (ICIP)_**, Bejing, China, pp. 2956-2960. IEEE, 2017. (Poster) ([PDF](https://ieeexplore.ieee.org/abstract/document/8296824))
+* **Zhiyuan Zha**, Xinggan Zhang, Qiong Wang, Yechao Bai and Lan Tang. "Image denoising using group sparsity residual and external nonlocal self-similarity prior", **_24th IEEE International Conference on Image Processing (ICIP)_**, Bejing, China, pp. 2956-2960. IEEE, 2017. (Poster) ([PDF](https://ieeexplore.ieee.org/abstract/document/8296824)) [[Code](https://github.com/zhazhiyuan/GSRC-ENSS-Demo.git)]
 
-* Lanqing Guo, **Zhiyuan Zha**, Saiprasad Ravishankar, and Bihan Wen. "Self-convolution: A highly-efficient operator for non-local image restorationg", **_46th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Toronto, Ontario, Canada, pp. 1860-1864, 2021. (Oral) ([PDF](https://ieeexplore.ieee.org/abstract/document/9414124))
+* Lanqing Guo, **Zhiyuan Zha**, Saiprasad Ravishankar, and Bihan Wen. "Self-convolution: A highly-efficient operator for non-local image restorationg", **_46th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Toronto, Ontario, Canada, pp. 1860-1864, 2021. (Oral) ([PDF](https://ieeexplore.ieee.org/abstract/document/9414124))  [[Code](https://github.com/GuoLanqing/Self-Convolution.git)]
 
 
 
