@@ -112,9 +112,9 @@ function toggleBibtex(articleid) {
 
 * **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiachao Zhang, Jiantao Zhou and Ce Zhu. "Simultaneous Nonlocal Self-Similarity Prior for Image Denoising", **_26th IEEE International Conference on Image Processing (ICIP)_**, Taipei, Taiwan, China, pp. 1119-1123, 2019. (Poster) ([PDF](https://ieeexplore.ieee.org/abstract/document/8804272)) [[Code](https://github.com/zhazhiyuan/SNSS-Test-Demo.git)]
 
-* **Zhiyuan Zha**, Xinggan Zhang, Qiong Wang, Yechao Bai, Lan Tang and Xin Yuan. "Group sparsity residual with non-local samples for image denoising", **_43th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Calgary, AB, pp. 1353-1357, 2018. (Oral) ([PDF](https://ieeexplore.ieee.org/abstract/document/8461388))
+* **Zhiyuan Zha**, Xinggan Zhang, Qiong Wang, Yechao Bai, Lan Tang and Xin Yuan. "Group sparsity residual with non-local samples for image denoising", **_43th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Calgary, AB, pp. 1353-1357, 2018. (Oral) ([PDF](https://ieeexplore.ieee.org/abstract/document/8461388)) [[Code](https://github.com/zhazhiyuan/GSR-NLS-Demo.git)]
 
-* **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiantao Zhou and Ce Zhu. "Joint patch-group based sparse representation for image inpainting", **_10th Asian Conference on Machine Learning (ACML)_**, Bejing, China, pp. 145-160. 2018. (Oral) ([PDF](https://proceedings.mlr.press/v95/zha18a.html))
+* **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiantao Zhou and Ce Zhu. "Joint patch-group based sparse representation for image inpainting", **_10th Asian Conference on Machine Learning (ACML)_**, Bejing, China, pp. 145-160. 2018. (Oral) ([PDF](https://proceedings.mlr.press/v95/zha18a.html)) [[Code](https://github.com/zhazhiyuan/JPG-SR-Inpainting-L0-Demo.git)]
 
 * **Zhiyuan Zha**, Xin Liu, Ziheng Zhou, Xiaohua Huang, Jingang Shi, Zhenhong Shang, Lan Tang, Yechao Bai, Qiong Wang and Xinggan Zhang. "Image denoising via group sparsity residual constraint", **_42th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, New Orleans, LA, pp. 1787-1791, 2017. (Poster) ([PDF](https://ieeexplore.ieee.org/abstract/document/7952464))
 
