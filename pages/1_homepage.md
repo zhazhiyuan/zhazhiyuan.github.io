@@ -146,7 +146,7 @@ function toggleBibtex(articleid) {
 #### Program Committee or Reviewer
 
 * AAI Conference on Artificial Intelligence (AAAI), 2022-2023
-* IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020-2023
+* IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020-2022
 * IEEE International Conference on Image Processing (ICIP), 2019-2023
 * IEEE International Conference on Multimedia and Expo (ICME), 2021-2022
 
@@ -167,8 +167,8 @@ function toggleBibtex(articleid) {
 * [Signal Processing](https://www.sciencedirect.com/journal/signal-processing)
 * [Signal Processing: Image Communication](https://www.sciencedirect.com/journal/signal-processing-image-communication)
 * [Journal of Visual Communication and Image Representation](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)
-* [IET Image Processing](https://digital-library.theiet.org/content/journals/iet-ipr)
 * [The Visual Computer](https://www.springer.com/journal/371)
+* [IET Image Processing](https://digital-library.theiet.org/content/journals/iet-ipr)
 
 
 ---
