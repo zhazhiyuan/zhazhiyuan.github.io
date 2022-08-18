@@ -96,7 +96,7 @@ function toggleBibtex(articleid) {
 
 #### Conference Papers
 
-* **Zhiyuan Zha**, Xin Liu, Xiaohua Huang, Henglin Shi, Yingyue Xu, Qiong Wang, Lan Tang and Xinggan Zhang. "Analyzing the Group Sparsity based on the Rank Minimization Methods", **_17th IEEE International Conference on Multimedia and Expo (ICME)_**, Hong Kong, pp. 883-888, 2017. (Oral, **Platinum Best Paper Award, Top 0.5%, Total 850**) ([PDF](https://ieeexplore.ieee.org/abstract/document/8019334)) [[Code](https://github.com/zhazhiyuan/GSC-WSNM-Demo.git)]
+* **Zhiyuan Zha**, Xin Liu, Xiaohua Huang, Henglin Shi, Yingyue Xu, Qiong Wang, Lan Tang and Xinggan Zhang. "Analyzing the Group Sparsity based on the Rank Minimization Methods", **_17th IEEE International Conference on Multimedia and Expo (ICME)_**, Hong Kong, China, pp. 883-888, 2017. (Oral, **Platinum Best Paper Award, Top 0.5%, Total 850**) ([PDF](https://ieeexplore.ieee.org/abstract/document/8019334)) [[Code](https://github.com/zhazhiyuan/GSC-WSNM-Demo.git)]
 
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou and Ce Zhu. "Reconciliation of Group Sparsity and Low-Rank Models for Image Restoration", **_20th IEEE International Conference on Multimedia and Expo(ICME)_**, London, United Kingdom, pp. 1-6, 2020. (Oral, **Best Paper Runner Up Award, Top 0.5%, Total 834**) ([PDF](https://ieeexplore.ieee.org/abstract/document/9102930)) [[Code](https://github.com/zhazhiyuan/LR-GSC-Demo.git)]
 
@@ -112,11 +112,11 @@ function toggleBibtex(articleid) {
 
 * **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiachao Zhang, Jiantao Zhou and Ce Zhu. "Simultaneous Nonlocal Self-Similarity Prior for Image Denoising", **_26th IEEE International Conference on Image Processing (ICIP)_**, Taipei, Taiwan, China, pp. 1119-1123, 2019. (Poster) ([PDF](https://ieeexplore.ieee.org/abstract/document/8804272)) [[Code](https://github.com/zhazhiyuan/SNSS-Test-Demo.git)]
 
-* **Zhiyuan Zha**, Xinggan Zhang, Qiong Wang, Yechao Bai, Lan Tang and Xin Yuan. "Group sparsity residual with non-local samples for image denoising", **_43th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Calgary, AB, pp. 1353-1357, 2018. (Oral) ([PDF](https://ieeexplore.ieee.org/abstract/document/8461388)) [[Code](https://github.com/zhazhiyuan/GSR-NLS-Demo.git)]
+* **Zhiyuan Zha**, Xinggan Zhang, Qiong Wang, Yechao Bai, Lan Tang and Xin Yuan. "Group sparsity residual with non-local samples for image denoising", **_43th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Calgary, AB, Canada, pp. 1353-1357, 2018. (Oral) ([PDF](https://ieeexplore.ieee.org/abstract/document/8461388)) [[Code](https://github.com/zhazhiyuan/GSR-NLS-Demo.git)]
 
 * **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiantao Zhou and Ce Zhu. "Joint patch-group based sparse representation for image inpainting", **_10th Asian Conference on Machine Learning (ACML)_**, Bejing, China, pp. 145-160. 2018. (Oral) ([PDF](https://proceedings.mlr.press/v95/zha18a.html)) [[Code](https://github.com/zhazhiyuan/JPG-SR-Inpainting-L0-Demo.git)]
 
-* **Zhiyuan Zha**, Xin Liu, Ziheng Zhou, Xiaohua Huang, Jingang Shi, Zhenhong Shang, Lan Tang, Yechao Bai, Qiong Wang and Xinggan Zhang. "Image denoising via group sparsity residual constraint", **_42th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, New Orleans, LA, pp. 1787-1791, 2017. (Poster) ([PDF](https://ieeexplore.ieee.org/abstract/document/7952464)) [[Code](https://github.com/zhazhiyuan/GSRC-Demo.git)]
+* **Zhiyuan Zha**, Xin Liu, Ziheng Zhou, Xiaohua Huang, Jingang Shi, Zhenhong Shang, Lan Tang, Yechao Bai, Qiong Wang and Xinggan Zhang. "Image denoising via group sparsity residual constraint", **_42th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, New Orleans, LA, USA, pp. 1787-1791, 2017. (Poster) ([PDF](https://ieeexplore.ieee.org/abstract/document/7952464)) [[Code](https://github.com/zhazhiyuan/GSRC-Demo.git)]
 
 * **Zhiyuan Zha**, Xinggan Zhang, Qiong Wang, Yechao Bai and Lan Tang. "Image denoising using group sparsity residual and external nonlocal self-similarity prior", **_24th IEEE International Conference on Image Processing (ICIP)_**, Bejing, China, pp. 2956-2960. IEEE, 2017. (Poster) ([PDF](https://ieeexplore.ieee.org/abstract/document/8296824)) [[Code](https://github.com/zhazhiyuan/GSRC-ENSS-Demo.git)]
 
