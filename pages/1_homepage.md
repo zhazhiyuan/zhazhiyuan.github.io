@@ -173,7 +173,7 @@ function toggleBibtex(articleid) {
 
 ---
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=573geowbknl&amp;m=7&amp;c=ffc000&amp;cr1=ffffff&amp;f=arial&amp;l=1&amp;s=170&amp;bv=70" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5n8c2ltrwnd&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
 
 
