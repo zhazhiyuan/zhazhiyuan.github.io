@@ -52,6 +52,8 @@ function toggleBibtex(articleid) {
 
 #### Journal Papers
 
+* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Saiprasad Ravishankar, Jiantao Zhou and Ce Zhu. "Learning Nonlocal Sparse and Low-Rank Models for Image Compressive Sensing", **_IEEE Signal Processing Magazine (SPM)_**, to appear. [[arXiv](https://arxiv.org/pdf/2203.09656.pdf)]
+
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot. "Low-Rankness Guided Group Sparse Representation for Image Restoration", **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**, 2022. (IF: 14.255) [[PDF](https://ieeexplore.ieee.org/abstract/document/9705602)] [[Code](https://github.com/zhazhiyuan/LGSR_IR_Demo.git)]
 
 
