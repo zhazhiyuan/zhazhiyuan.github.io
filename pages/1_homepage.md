@@ -151,7 +151,7 @@ function toggleBibtex(articleid) {
 #### Program Committee or Reviewer
 
 * AAI Conference on Artificial Intelligence (AAAI), 2022-2023
-* IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020-2022
+* IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020-2023
 * IEEE International Conference on Image Processing (ICIP), 2019-2023
 * IEEE International Conference on Multimedia and Expo (ICME), 2021-2022
 
