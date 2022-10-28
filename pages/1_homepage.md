@@ -170,6 +170,7 @@ function toggleBibtex(articleid) {
 * [SIAM Journal on Imaging Sciences](https://www.siam.org/publications/journals/siam-journal-on-imaging-sciences-siims)
 * [Inverse Problems](https://iopscience.iop.org/journal/0266-5611)
 * [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
+* [Information Fusion](https://www.sciencedirect.com/journal/information-fusion/)
 * [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
 * [Signal Processing](https://www.sciencedirect.com/journal/signal-processing)
 * [Signal Processing: Image Communication](https://www.sciencedirect.com/journal/signal-processing-image-communication)
