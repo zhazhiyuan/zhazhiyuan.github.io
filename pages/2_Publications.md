@@ -122,14 +122,3 @@ function toggleBibtex(articleid) {
 
 * Lanqing Guo, **Zhiyuan Zha**, Saiprasad Ravishankar, and Bihan Wen. "Self-convolution: A highly-efficient operator for non-local image restorationg", **_46th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Toronto, Ontario, Canada, pp. 1860-1864, 2021. (Oral) ([PDF](https://ieeexplore.ieee.org/abstract/document/9414124))  [[Code](https://github.com/GuoLanqing/Self-Convolution.git)]
 
-
-
----
-
-### Awards
-
-* [Platinum Best Paper Award](https://zhazhiyuan.github.io/images/Platinum Best Paper Award.JPG) at 17th IEEE International Conference on Multimedia and Expo (ICME), 2017.
-
-* [Best Paper Runner Up Award](https://zhazhiyuan.github.io/images/Best Paper Runner Up Award.PNG) at 20th IEEE International Conference on Multimedia and Expo (ICME), 2020.
-
-
