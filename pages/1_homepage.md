@@ -60,6 +60,8 @@ function toggleBibtex(articleid) {
 
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Saiprasad Ravishankar, Jiantao Zhou and Ce Zhu. "Learning Nonlocal Sparse and Low-Rank Models for Image Compressive Sensing", **_IEEE Signal Processing Magazine (SPM)_**, vol. 40, no. 1, pp. 32-44, Jan. 2023. [[PDF](https://ieeexplore.ieee.org/document/10004837)]  [[Code](https://github.com/zhazhiyuan/Nonlocal_Image_CS_Demo.git)]
 
+* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiachao Zhang, Jiantao Zhou, Xudong Jiang and Ce Zhu. "Multiple Complementary Priors for Multispectral Image Compressive Sensing Reconstruction", **_IEEE Transactions on Cybernetics (TCYB)_**, 2023. (IF: 19.118) [[PDF]([https://ieeexplore.ieee.org/document/10004837](https://ieeexplore.ieee.org/document/10068806))]  [[Code](https://github.com/zhazhiyuan/MCP_MSI_CS_Demo.git)]
+
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot. "Low-Rankness Guided Group Sparse Representation for Image Restoration", **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**, 2022. (IF: 14.255) [[PDF](https://ieeexplore.ieee.org/abstract/document/9705602)] [[Code](https://github.com/zhazhiyuan/LGSR_IR_Demo.git)]
 
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot. "A Hybrid Structural Sparsification Error Model for Image Restoration", **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**, vol. 33, no. 9, pp. 4451-4465, 2022. (IF: 14.255) ([PDF](https://ieeexplore.ieee.org/abstract/document/9361634)) [[Code](https://github.com/zhazhiyuan/HSSE_IR_Demo.git)]
@@ -78,7 +80,7 @@ function toggleBibtex(articleid) {
 
 * **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiantao Zhou, Jiachao Zhang and Ce Zhu. "A benchmark for sparse coding: When group sparsity meets rank minimization", **_IEEE Transactions on Image Processing (TIP)_**, vol. 29, pp. 5094-5109, 2020. (IF: 9.340) ([PDF](https://ieeexplore.ieee.org/abstract/document/9031694)) [[Code](https://github.com/zhazhiyuan/GSC-WLP-Demo.git)]
 
-* **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiantao Zhou, Jiachao Zhang and Ce Zhu. "From rank estimation to rank approximation: Rank residual constraint for image restoration",  **_IEEE Transactions on Image Processing (TIP)_**, vol. 29, pp. 3254-3269, 2020. (IF: 9.340) ([PDF](https://ieeexplore.ieee.org/abstract/document/8931738)) [[Code](https://github.com/zhazhiyuan/RRC-Demo.git)]
+* **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiantao Zhou, Jiachao Zhang and Ce Zhu. "From rank estimation to rank approximation: Rank residual constraint for image restoration",  **_IEEE Transactions on Image Processing (TIP)_**, vol. 29, pp. 3254-3269, 2020. (IF: 9.340) ([PDF](https://ieeexplore.ieee.org/abstract/document/8931738)) ([arXiv](https://arxiv.org/pdf/1807.02504.pdf)) [[Code](https://github.com/zhazhiyuan/RRC-Demo.git)]
 
 * **Zhiyuan Zha**, Xinggan Zhang, Yu Wu, Qiong Wang, Xin Liu, Lan Tang and Xin Yuan. "Non-convex weighted Lp nuclear norm based ADMM framework for image restoration", **_Neurocomputing_**, vol. 311, pp. 209-224, 2018. (IF: 3.241) ([PDF](https://www.sciencedirect.com/science/article/abs/pii/S0925231218306581)) [[Code](https://github.com/zhazhiyuan/WLP-ADMM-Demo.git)]
 
