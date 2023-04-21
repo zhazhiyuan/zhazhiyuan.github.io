@@ -145,6 +145,8 @@ function toggleBibtex(articleid) {
 
 ### Academic Service
 
+* Associate Editor of [The Visual Computer](https://www.springer.com/journal/371), 04/2023 – present
+
 * Area Chair of IEEE 5th International Conference on Multimedia Information Processing and Retrieval (MIPR 2022) 
 
 * Session Chair of the 47th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022) 
