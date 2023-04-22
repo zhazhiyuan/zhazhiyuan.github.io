@@ -52,17 +52,19 @@ function toggleBibtex(articleid) {
 
 #### Journal Papers
 
-* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Saiprasad Ravishankar, Jiantao Zhou and Ce Zhu. "Learning Nonlocal Sparse and Low-Rank Models for Image Compressive Sensing", **_IEEE Signal Processing Magazine (SPM)_**, vol. 40, no. 1, pp. 32-44, Jan. 2023. [[PDF](https://ieeexplore.ieee.org/document/10004837)]  [[Code](https://github.com/zhazhiyuan/Nonlocal_Image_CS_Demo.git)]
+* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Saiprasad Ravishankar, Jiantao Zhou and Ce Zhu. "Learning Nonlocal Sparse and Low-Rank Models for Image Compressive Sensing", **_IEEE Signal Processing Magazine (SPM)_**, vol. 40, no. 1, pp. 32-44, Jan. 2023. (IF: 15.204) ([PDF](https://ieeexplore.ieee.org/document/10004837))  [[Code](https://github.com/zhazhiyuan/Nonlocal_Image_CS_Demo.git)]
 
-* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiachao Zhang, Jiantao Zhou, Xudong Jiang and Ce Zhu. "Multiple Complementary Priors for Multispectral Image Compressive Sensing Reconstruction", **_IEEE Transactions on Cybernetics (TCYB)_**, 2023. (IF: 19.118) [[PDF](https://ieeexplore.ieee.org/document/10068806)]  [[Code](https://github.com/zhazhiyuan/MCP_MSI_CS_Demo.git)]
+* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiachao Zhang, Jiantao Zhou, Yilong Lu and Ce Zhu. "Non-Local Structured Sparsity Regularization Modeling for Hyperspectral Image Denoising", **_IEEE Transactions on Geoscience and Remote Sensing (TGRS)_**, 2023. (IF: 8.125) ([PDF](https://ieeexplore.ieee.org/document/10106506))  [[Code](https://github.com/zhazhiyuan/NLSSR_Denoising_Demo.git)]
 
-* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot. "Low-Rankness Guided Group Sparse Representation for Image Restoration", **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**, 2022. (IF: 14.255) [[PDF](https://ieeexplore.ieee.org/abstract/document/9705602)] [[Code](https://github.com/zhazhiyuan/LGSR_IR_Demo.git)]
+* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiachao Zhang, Jiantao Zhou, Xudong Jiang and Ce Zhu. "Multiple Complementary Priors for Multispectral Image Compressive Sensing Reconstruction", **_IEEE Transactions on Cybernetics (TCYB)_**, 2023. (IF: 19.118) ([PDF](https://ieeexplore.ieee.org/document/10068806))  [[Code](https://github.com/zhazhiyuan/MCP_MSI_CS_Demo.git)]
+
+* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot. "Low-Rankness Guided Group Sparse Representation for Image Restoration", **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**, 2022. (IF: 14.255) ([PDF](https://ieeexplore.ieee.org/abstract/document/9705602)) [[Code](https://github.com/zhazhiyuan/LGSR_IR_Demo.git)]
 
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot. "A Hybrid Structural Sparsification Error Model for Image Restoration", **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**, vol. 33, no. 9, pp. 4451-4465, 2022. (IF: 14.255) ([PDF](https://ieeexplore.ieee.org/abstract/document/9361634)) [[Code](https://github.com/zhazhiyuan/HSSE_IR_Demo.git)]
 
-* **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiachao Zhang and Ce Zhu. "Non-Convex Structural Sparsity Residual Constraint for Image Restoration", **_IEEE Transactions on Cybernetics (TCYB)_**, vol. 52, no. 11, pp. 12440-12453, Nov. 2022. (IF: 19.118) [[PDF](https://ieeexplore.ieee.org/abstract/document/9463879)] [[Code](https://github.com/zhazhiyuan/NSSRC_Demo.git)]
+* **Zhiyuan Zha**, Xin Yuan, Bihan Wen, Jiachao Zhang and Ce Zhu. "Non-Convex Structural Sparsity Residual Constraint for Image Restoration", **_IEEE Transactions on Cybernetics (TCYB)_**, vol. 52, no. 11, pp. 12440-12453, Nov. 2022. (IF: 19.118) ([PDF](https://ieeexplore.ieee.org/abstract/document/9463879)) [[Code](https://github.com/zhazhiyuan/NSSRC_Demo.git)]
 
-* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Joey Tianyi Zhou, Jiantao Zhou and Ce Zhu. "Triply Complementary Priors for Image Restoration",  **_IEEE Transactions on Image Processing (TIP)_**, vol. 30, pp. 5819-5834, 2021. (IF: 10.856) [[PDF](https://ieeexplore.ieee.org/abstract/document/9457041)] [[Code](https://github.com/zhazhiyuan/H-PnP-Demo.git)]
+* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Joey Tianyi Zhou, Jiantao Zhou and Ce Zhu. "Triply Complementary Priors for Image Restoration",  **_IEEE Transactions on Image Processing (TIP)_**, vol. 30, pp. 5819-5834, 2021. (IF: 10.856) ([PDF](https://ieeexplore.ieee.org/abstract/document/9457041)) [[Code](https://github.com/zhazhiyuan/H-PnP-Demo.git)]
 	    
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou and Ce Zhu. "Image Restoration via Reconciliation of Group Sparsity and Low-Rank Models", **_IEEE Transactions on Image Processing (TIP)_**, vol. 30, pp. 5223-5238, 2021. (IF: 10.856) ([PDF](https://ieeexplore.ieee.org/abstract/document/9435965)) [[Code](https://github.com/zhazhiyuan/LR-GSC-Demo.git)]
 
@@ -121,4 +123,3 @@ function toggleBibtex(articleid) {
 * **Zhiyuan Zha**, Xinggan Zhang, Qiong Wang, Yechao Bai and Lan Tang. "Image denoising using group sparsity residual and external nonlocal self-similarity prior", **_24th IEEE International Conference on Image Processing (ICIP)_**, Bejing, China, pp. 2956-2960. IEEE, 2017. (Poster) ([PDF](https://ieeexplore.ieee.org/abstract/document/8296824)) [[Code](https://github.com/zhazhiyuan/GSRC-ENSS-Demo.git)]
 
 * Lanqing Guo, **Zhiyuan Zha**, Saiprasad Ravishankar, and Bihan Wen. "Self-convolution: A highly-efficient operator for non-local image restorationg", **_46th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Toronto, Ontario, Canada, pp. 1860-1864, 2021. (Oral) ([PDF](https://ieeexplore.ieee.org/abstract/document/9414124))  [[Code](https://github.com/GuoLanqing/Self-Convolution.git)]
-
