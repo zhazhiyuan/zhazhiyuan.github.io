@@ -151,7 +151,7 @@ function toggleBibtex(articleid) {
 
 * Area Chair of the 5th [IEEE International Conference on Multimedia Information Processing and Retrieval](http://www.ieee-mipr.org/history/2022/data/index.html) (MIPR 2022) 
 
-* Session Chair of the 47th []IEEE International Conference on Acoustics, Speech and Signal Processing](https://2022.ieeeicassp.org/) (ICASSP 2022) 
+* Session Chair of the 47th [IEEE International Conference on Acoustics, Speech and Signal Processing](https://2022.ieeeicassp.org/) (ICASSP 2022) 
 
 #### Program Committee or Reviewer
 
