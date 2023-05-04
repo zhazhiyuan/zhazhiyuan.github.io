@@ -166,7 +166,9 @@ function toggleBibtex(articleid) {
 #### Journal Reviewer
 
 * [IEEE Signal Processing Magazine](https://signalprocessingsociety.org/tags/ieee-signal-processing-magazine)
+* [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
 * [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
+* [IEEE Transactions on Signal Processing] (https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)
 * [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 * [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
 * [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
