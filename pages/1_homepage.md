@@ -177,6 +177,7 @@ function toggleBibtex(articleid) {
 * [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
 * [IEEE Transactions on Broadcasting](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=11)
 * [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97)
+* [ACM Transactions on Multimedia Computing, Communications, and Applications](https://dl.acm.org/journal/tomm)
 * [SIAM Journal on Imaging Sciences](https://www.siam.org/publications/journals/siam-journal-on-imaging-sciences-siims)
 * [Inverse Problems](https://iopscience.iop.org/journal/0266-5611)
 * [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
