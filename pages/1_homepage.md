@@ -103,7 +103,7 @@ function toggleBibtex(articleid) {
 #### Conference Papers
 
 
-* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou and Ce Zhu. "Hyperspectral Image Denoising Via Nonlocal Rank Residual Modeling", **_48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Singapore, pp. 1-5, 2023. (Oral) ([PDF](https://ieeexplore.ieee.org/document/10096242)) [[Code](https://github.com/zhazhiyuan/NRR_HSI_Denoising_Demo.git)]
+* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou and Ce Zhu. "Hyperspectral Image Denoising Via Nonlocal Rank Residual Modeling", **_48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Singapore, pp. 1-5, 2023. ([PDF](https://ieeexplore.ieee.org/document/10096242)) [[Code](https://github.com/zhazhiyuan/NRR_HSI_Denoising_Demo.git)]
 
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou and Ce Zhu. "Simultaneous Nonlocal Low-Rank and Deep Priors for Poisson Denoising", **_47th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Singapore, pp. 2320-2324, 2022. (Oral) ([PDF](https://ieeexplore.ieee.org/abstract/document/9746870)) [[Code](https://github.com/zhazhiyuan/SNLDP-Poisson-denoising-Demo.git)]
 
