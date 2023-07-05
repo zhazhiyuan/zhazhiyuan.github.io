@@ -193,6 +193,11 @@ function toggleBibtex(articleid) {
 
 ---
 
+#### Member
+* IEEE Member, CCF Member, SPS member, CSIG Member
+
+---
+
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5n8c2ltrwnd&m=0&c=ff0000&cr1=ffffff&f=arial&l=1&amp;s=170&amp;bv=70" async="async"></script>
 
 
