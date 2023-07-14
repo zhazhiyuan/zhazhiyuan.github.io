@@ -44,12 +44,10 @@ function toggleBibtex(articleid) {
 </script>
 
 
-
 	
 ### Biography
  
 | <br>I am a senior research fellow at the School of Electrical and Electronic Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, working with [Prof. Bihan Wen](https://personal.ntu.edu.sg/bihan.wen/) and [Prof. Alex Chichung Kot](https://www3.ntu.edu.sg/home/eackot/). Prior to that, I was postdoctoral at the School of Information and Communication Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Chengdu, China, working with [Prof. Ce Zhu](http://www.avc2-lab.net/~eczhu/). I received a Ph.D. degree from the School of Electronic Science and Engineering, [Nanjing University](https://www.nju.edu.cn/main.htm), Nanjing, China, supervised by [Prof. Xinggan Zhang](https://ese.nju.edu.cn/zxg/list.htm), in 2018. My research interests include inverse problems in image and volumetric data (e.g., video, hyperspectral image and medical image) processing, sparse signal representation, and machine learning. <br> <br> **Email：** <zhazhiyuan.mmd@gmail.com>, <zhiyuan.zha@ntu.edu.sg>. <br><br>|  ![image](https://zhazhiyuan.github.io/images/IMG_2698.png)|
-
 
 
 ### Publications ([**Google Scholar**](https://scholar.google.com/citations?user=JgiasCAAAAAJ&hl=en))
@@ -137,11 +135,8 @@ function toggleBibtex(articleid) {
 
 ### Awards
 
-* [Platinum Best Paper Award](https://zhazhiyuan.github.io/images/Platinum Best Paper Award.JPG) at 17th IEEE International Conference on Multimedia and Expo (ICME), 2017.
-
 * [Best Paper Runner Up Award](https://zhazhiyuan.github.io/images/Best Paper Runner Up Award.PNG) at 20th IEEE International Conference on Multimedia and Expo (ICME), 2020.
-
-
+* [Platinum Best Paper Award](https://zhazhiyuan.github.io/images/Platinum Best Paper Award.JPG) at 17th IEEE International Conference on Multimedia and Expo (ICME), 2017.
 
 
 ---
@@ -194,7 +189,7 @@ function toggleBibtex(articleid) {
 ---
 
 #### Member
-* IEEE Member, CCF Member, SPS member, CSIG Member
+* IEEE Member, SPS member, CCF Member, CSIG Member
 
 ---
 
