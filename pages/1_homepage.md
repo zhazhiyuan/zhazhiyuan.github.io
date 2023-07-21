@@ -185,6 +185,7 @@ function toggleBibtex(articleid) {
 * [Journal of Visual Communication and Image Representation](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)
 * [The Visual Computer](https://www.springer.com/journal/371)
 * [IET Image Processing](https://digital-library.theiet.org/content/journals/iet-ipr)
+* [CAAI Transactions on Intelligence Technology](https://ietresearch.onlinelibrary.wiley.com/journal/24682322)
 
 ---
 
