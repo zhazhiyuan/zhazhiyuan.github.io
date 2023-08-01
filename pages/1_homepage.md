@@ -94,8 +94,6 @@ function toggleBibtex(articleid) {
 
 * Lanqing Guo, **Zhiyuan Zha**, Saiprasad Ravishankar, and Bihan Wen. "Exploiting Non-Local Priors via Self-Convolution for Highly-Efficient Image Restoration", **_IEEE Transactions on Image Processing (TIP)_**, vol. 31, pp. 1311-1324, 2022. (IF: 11.041) ([PDF](https://ieeexplore.ieee.org/abstract/document/9679456)) [[Code](https://github.com/GuoLanqing/Self-Convolution.git)]
 
-* Chen Xiang, Wenjun Xia, Yan Liu, Hu Chen, Jiliu Zhou, **Zhiyuan Zha**, Bihan Wen, and Yi Zhang. "FONT-SIR: Fourth-Order Nonlocal Tensor Decomposition Model for Spectral CT Image Reconstruction", **_IEEE Transactions on Medical Imaging (TMI)_**, vol. 41,   pp. 2144-2156, 2022. (IF: 11.037) ([PDF](https://ieeexplore.ieee.org/abstract/document/9726161))
-
 <br>
 
 #### Conference Papers
