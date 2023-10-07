@@ -61,7 +61,7 @@ function toggleBibtex(articleid) {
 
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiachao Zhang, Jiantao Zhou, Yilong Lu and Ce Zhu. "Nonlocal Structured Sparsity Regularization Modeling for Hyperspectral Image Denoising", **_IEEE Transactions on Geoscience and Remote Sensing (TGRS)_**, vol. 61, pp. 1-16, 2023. (IF: 8.125) ([PDF](https://ieeexplore.ieee.org/document/10106506))  [[Code](https://github.com/zhazhiyuan/NLSSR_Denoising_Demo.git)]
 
-* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot. "Low-Rankness Guided Group Sparse Representation for Image Restoration", **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**, 2022. (IF: 14.255) ([PDF](https://ieeexplore.ieee.org/abstract/document/9705602)) [[Code](https://github.com/zhazhiyuan/LGSR_IR_Demo.git)]
+* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot. "Low-Rankness Guided Group Sparse Representation for Image Restoration", **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**, vol. 34, no. 10, pp. 7593-7607, Oct. 2023. (IF: 14.255) ([PDF](https://ieeexplore.ieee.org/abstract/document/9705602)) [[Code](https://github.com/zhazhiyuan/LGSR_IR_Demo.git)]
 
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou, Ce Zhu and Alex Chichung Kot. "A Hybrid Structural Sparsification Error Model for Image Restoration", **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**, vol. 33, no. 9, pp. 4451-4465, 2022. (IF: 14.255) ([PDF](https://ieeexplore.ieee.org/abstract/document/9361634)) [[Code](https://github.com/zhazhiyuan/HSSE_IR_Demo.git)]
 
