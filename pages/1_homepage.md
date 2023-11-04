@@ -140,7 +140,7 @@ function toggleBibtex(articleid) {
 
 ### Academic Service
 
-* IEEE Computational Imaging Technical Committee (CI TC) Member, since January 2024.
+* [IEEE Computational Imaging Technical Committee (CI TC) Member](https://signalprocessingsociety.org/community-involvement/computational-imaging/members), since January 2024.
 
 * Associate Editor of [The Visual Computer](https://www.springer.com/journal/371), 04/2023 – present
 
