@@ -163,6 +163,7 @@ function toggleBibtex(articleid) {
 
 * [IEEE Signal Processing Magazine](https://signalprocessingsociety.org/tags/ieee-signal-processing-magazine)
 * [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
+* [International Journal of Computer Vision](https://link.springer.com/journal/11263)
 * [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
 * [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)
 * [IEEE Journal of Selected Topics in Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690)
