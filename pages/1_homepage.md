@@ -55,6 +55,7 @@ function toggleBibtex(articleid) {
 <br>
 
 #### Journal Papers
+* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiachao Zhang, Jiantao Zhou and Ce Zhu. "Structured residual sparsity for video compressive sensing reconstruction", **_Signal Processing (SP)_**, 2024. (IF: 4.4) ([PDF](https://www.sciencedirect.com/science/article/abs/pii/S0165168424001324))  [[Code](https://github.com/zhazhiyuan/SRS_Video_CS_Demo.git)]
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Saiprasad Ravishankar, Jiantao Zhou and Ce Zhu. "Learning Nonlocal Sparse and Low-Rank Models for Image Compressive Sensing", **_IEEE Signal Processing Magazine (SPM)_**, vol. 40, no. 1, pp. 32-44, Jan. 2023. (IF: 15.204) ([PDF](https://ieeexplore.ieee.org/document/10004837))  [[Code](https://github.com/zhazhiyuan/Nonlocal_Image_CS_Demo.git)]
 
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiachao Zhang, Jiantao Zhou, Xudong Jiang and Ce Zhu. "Multiple Complementary Priors for Multispectral Image Compressive Sensing Reconstruction", **_IEEE Transactions on Cybernetics (TCYB)_**, 2023. (IF: 19.118) ([PDF](https://ieeexplore.ieee.org/document/10068806))  [[Code](https://github.com/zhazhiyuan/MCP_MSI_CS_Demo.git)]
