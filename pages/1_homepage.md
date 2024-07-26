@@ -141,7 +141,7 @@ function toggleBibtex(articleid) {
 
 ### Academic Service
 * Associate Editor of [IEEE Transactions on Image Processing](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing/editorial-board), 07/2024-present.
-* Associate Editor of [Signal Processing](https://www.sciencedirect.com/journal/signal-processing/about/editorial-board), 07/2024-present.
+* Handling Editor of [Signal Processing](https://www.sciencedirect.com/journal/signal-processing/about/editorial-board), 07/2024-present.
 
 * [IEEE Computational Imaging Technical Committee (CI TC) Member](https://signalprocessingsociety.org/community-involvement/computational-imaging/members), since January 2024.
 
