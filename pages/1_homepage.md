@@ -131,7 +131,7 @@ function toggleBibtex(articleid) {
 
 ---
 
-### Awards
+#### Awards
 
 * [Best Paper Runner Up Award](https://zhazhiyuan.github.io/images/Best Paper Runner Up Award.PNG) at 20th IEEE International Conference on Multimedia and Expo (ICME), 2020.
 * [Platinum Best Paper Award](https://zhazhiyuan.github.io/images/Platinum Best Paper Award.JPG) at 17th IEEE International Conference on Multimedia and Expo (ICME), 2017.
@@ -139,7 +139,7 @@ function toggleBibtex(articleid) {
 
 ---
 
-### Academic Service
+#### Academic Service
 * Associate Editor of [IEEE Transactions on Image Processing](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing/editorial-board).
   
 * Handling Editor of [Signal Processing](https://www.sciencedirect.com/journal/signal-processing/about/editorial-board).
