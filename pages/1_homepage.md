@@ -50,11 +50,11 @@ function toggleBibtex(articleid) {
 | <br>Dr. Zhiyuan Zha (Senior Member, IEEE) is now a full professor at the [College of Communication Engineering](https://dce.jlu.edu.cn/index.htm), [Jilin University](https://www.jlu.edu.cn/index.htm). Prior to that, he was a senior research fellow at the School of Electrical and Electronic Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, working with [Prof. Bihan Wen](https://personal.ntu.edu.sg/bihan.wen/) and [Prof. Alex Chichung Kot](https://www3.ntu.edu.sg/home/eackot/). He was a postdoctoral at the School of Information and Communication Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Chengdu, China, working with [Prof. Ce Zhu](http://www.avc2-lab.net/~eczhu/). He received a Ph.D. degree from the School of Electronic Science and Engineering, [Nanjing University](https://www.nju.edu.cn/main.htm), Nanjing, China, supervised by [Prof. Xinggan Zhang](https://ese.nju.edu.cn/zxg/list.htm), in 2018. His current research interests include inverse problems in image and volumetric data (e.g., video, hyperspectral image, and medical image) processing, sparse signal representation, and machine learning. He has published over 30 papers in prestigious journals and conferences, including IEEE SPM, TIP, TNNLS, TCYB, TGRS, ICME, ICASSP, ICIP, and ACML. He received the  [Platinum Best Paper Award](https://zhazhiyuan.github.io/images/Platinum Best Paper Award.JPG) and  the [Best Paper Runner Up Award](https://zhazhiyuan.github.io/images/Best Paper Runner Up Award.PNG) at the IEEE International Conference on Multimedia and Expo (ICME)  in 2017 and 2020, respectively. He has been elected as an [IEEE Computational Imaging Technical Committee](https://signalprocessingsociety.org/community-involvement/computational-imaging/members) (CI TC) member since January 2024. He is now serving on the Editorial Board of [IEEE Transactions on Image Processing](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing/editorial-board), [Signal Processing](https://www.sciencedirect.com/journal/signal-processing/about/editorial-board) and [The Visual Computer](https://www.springer.com/journal/371/editors). <br> <br> **Email：** <zhazhiyuan.mmd@gmail.com>, <zhiyuan_zha@jlu.edu.cn>.<br><br>|  ![image](https://zhazhiyuan.github.io/images/photo_3.jpg)|
 
 
-#### Publications ([**Google Scholar**](https://scholar.google.com/citations?user=JgiasCAAAAAJ&hl=en))
+## Publications ([**Google Scholar**](https://scholar.google.com/citations?user=JgiasCAAAAAJ&hl=en))
 
 <br>
 
-## Journal Papers
+#### Journal Papers
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiachao Zhang, Jiantao Zhou and Ce Zhu. "Structured residual sparsity for video compressive sensing reconstruction", **_Signal Processing (SP)_**, vol. 222, pages. 109513, 2024. (IF: 4.400) ([PDF](https://www.sciencedirect.com/science/article/abs/pii/S0165168424001324))  [[Code](https://github.com/zhazhiyuan/SRS_Video_CS_Demo.git)]
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Saiprasad Ravishankar, Jiantao Zhou and Ce Zhu. "Learning Nonlocal Sparse and Low-Rank Models for Image Compressive Sensing", **_IEEE Signal Processing Magazine (SPM)_**, vol. 40, no. 1, pp. 32-44, Jan. 2023. (IF: 15.204) ([PDF](https://ieeexplore.ieee.org/document/10004837))  [[Code](https://github.com/zhazhiyuan/Nonlocal_Image_CS_Demo.git)]
 
@@ -131,7 +131,7 @@ function toggleBibtex(articleid) {
 
 ---
 
-#### Awards
+## Awards
 
 * [Best Paper Runner Up Award](https://zhazhiyuan.github.io/images/Best Paper Runner Up Award.PNG) at 20th IEEE International Conference on Multimedia and Expo (ICME), 2020.
 * [Platinum Best Paper Award](https://zhazhiyuan.github.io/images/Platinum Best Paper Award.JPG) at 17th IEEE International Conference on Multimedia and Expo (ICME), 2017.
@@ -139,7 +139,7 @@ function toggleBibtex(articleid) {
 
 ---
 
-#### Academic Service
+## Academic Service
 * Associate Editor of [IEEE Transactions on Image Processing](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing/editorial-board).
   
 * Handling Editor of [Signal Processing](https://www.sciencedirect.com/journal/signal-processing/about/editorial-board).
@@ -152,7 +152,7 @@ function toggleBibtex(articleid) {
 
 * Session Chair of the 47th [IEEE International Conference on Acoustics, Speech and Signal Processing](https://2022.ieeeicassp.org/) (ICASSP 2022) 
 
-#### Program Committee or Reviewer
+## Program Committee or Reviewer
 
 * AAI Conference on Artificial Intelligence (AAAI), 2022-2024
 * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020-2023
@@ -162,7 +162,7 @@ function toggleBibtex(articleid) {
 * IEEE International Symposium on Circuits & Systems (ISCAS), 2023
 
 
-#### Journal Reviewer
+## Journal Reviewer
 
 * [IEEE Signal Processing Magazine](https://signalprocessingsociety.org/tags/ieee-signal-processing-magazine)
 * [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
@@ -194,7 +194,7 @@ function toggleBibtex(articleid) {
 
 ---
 
-#### Member
+## Member
 * IEEE Senior Member, SPS member, CCF Member, CSIG Member
 
 ---
