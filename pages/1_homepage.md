@@ -147,6 +147,8 @@ function toggleBibtex(articleid) {
 * [IEEE Computational Imaging Technical Committee (CI TC) Member](https://signalprocessingsociety.org/community-involvement/computational-imaging/members), since January 2024.
 
 * Associate Editor of [The Visual Computer](https://www.springer.com/journal/371).
+  
+* Area Chair of the 50th [IEEE International Conference on Acoustics, Speech and Signal Processing](https://2025.ieeeicassp.org/) (ICASSP 2025) 
 
 * Area Chair of the 5th [IEEE International Conference on Multimedia Information Processing and Retrieval](http://www.ieee-mipr.org/history/2022/data/index.html) (MIPR 2022) 
 
