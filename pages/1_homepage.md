@@ -199,7 +199,7 @@ function toggleBibtex(articleid) {
 ---
 
 ### Member
-* IEEE Senior Member, SPS member, CCF Member, CSIG Member
+* IEEE Senior Member, CSIG Senior Member, CCF Member, SPS member
 
 ---
 
