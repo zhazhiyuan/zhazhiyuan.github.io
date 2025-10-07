@@ -98,7 +98,8 @@ function toggleBibtex(articleid) {
 
 #### Conference Papers
 
-
+* **Wudi Chen**, Zhiyuan Zha*, Shigang Wang, Bihan Wen, Xin Yuan, Jiantao Zhou, zipei fan, Gang Yan, Ce Zhu . "KaRF: Weakly-Supervised Kolmogorov-Arnold Networks-based Radiance Fields for Local Color Editing", **_39th Annual Conference on Neural Information Processing Systems (NeurIPS)_**, San Diego, USA, 2025. (*Corresponding author)
+  
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou and Ce Zhu. "Hyperspectral Image Denoising Via Nonlocal Rank Residual Modeling", **_48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Rhodes Island, Greence, pp. 1-5, 2023. ([PDF](https://ieeexplore.ieee.org/document/10096242)) [[Code](https://github.com/zhazhiyuan/NRR_HSI_Denoising_Demo.git)]
 
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou and Ce Zhu. "Simultaneous Nonlocal Low-Rank and Deep Priors for Poisson Denoising", **_47th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Singapore, pp. 2320-2324, 2022. (Oral) ([PDF](https://ieeexplore.ieee.org/abstract/document/9746870)) [[Code](https://github.com/zhazhiyuan/SNLDP-Poisson-denoising-Demo.git)]
