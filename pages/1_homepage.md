@@ -55,7 +55,7 @@ function toggleBibtex(articleid) {
 <br>
 
 #### Journal Papers
-* Sirui Pan, **Zhiyuan Zha**#, Shigang Wang, Bihan Wen, Zipei Fan, Gang Yan, Binh T. Nguyen and Yue Li. "KaRF: Weakly-Supervised Kolmogorov-Arnold Networks-based Radiance Fields for Local Color Editing", **_IEEE Transactions on Geoscience and Remote Sensing (TGRS)_**, 2025. (#Corresponding author)([PDF](https://xplorestaging.ieee.org/document/11202991))  [[Code](https://github.com/pansirui/TR-UTV_Seismic_Denoising_Demo)]
+* Sirui Pan, **Zhiyuan Zha**#, Shigang Wang, Bihan Wen, Zipei Fan, Gang Yan, Binh T. Nguyen and Yue Li. "Joint Tensor Ring Decomposition and Unidirectional Total Variation for Seismic Data Denoising", **_IEEE Transactions on Geoscience and Remote Sensing (TGRS)_**, 2025.  (IF: 8.60) ([PDF](https://xplorestaging.ieee.org/document/11202991))  [[Code](https://github.com/pansirui/TR-UTV_Seismic_Denoising_Demo)] (#Corresponding author)
   
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiachao Zhang, Jiantao Zhou and Ce Zhu. "Structured residual sparsity for video compressive sensing reconstruction", **_Signal Processing (SP)_**, vol. 222, pages. 109513, 2024. (IF: 4.400) ([PDF](https://www.sciencedirect.com/science/article/abs/pii/S0165168424001324))  [[Code](https://github.com/zhazhiyuan/SRS_Video_CS_Demo.git)]
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Saiprasad Ravishankar, Jiantao Zhou and Ce Zhu. "Learning Nonlocal Sparse and Low-Rank Models for Image Compressive Sensing", **_IEEE Signal Processing Magazine (SPM)_**, vol. 40, no. 1, pp. 32-44, Jan. 2023. (IF: 15.204) ([PDF](https://ieeexplore.ieee.org/document/10004837))  [[Code](https://github.com/zhazhiyuan/Nonlocal_Image_CS_Demo.git)]
