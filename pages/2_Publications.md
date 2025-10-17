@@ -53,9 +53,9 @@ function toggleBibtex(articleid) {
 <br>
 
 #### Journal Papers
-
-* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiachao Zhang, Jiantao Zhou and Ce Zhu. "Structured residual sparsity for video compressive sensing reconstruction", **_Signal Processing (SP)_**, vol. 222, pages. 109513, 2024. (IF: 4.400) ([PDF](https://www.sciencedirect.com/science/article/abs/pii/S0165168424001324))  [[Code](https://github.com/zhazhiyuan/SRS_Video_CS_Demo.git)]
+* Sirui Pan, **Zhiyuan Zha**#, Shigang Wang, Bihan Wen, Zipei Fan, Gang Yan, Binh T. Nguyen and Yue Li. "Joint Tensor Ring Decomposition and Unidirectional Total Variation for Seismic Data Denoising", **_IEEE Transactions on Geoscience and Remote Sensing (TGRS)_**, 2025.  (IF: 8.60) ([PDF](https://xplorestaging.ieee.org/document/11202991))  [[Code](https://github.com/pansirui/TR-UTV_Seismic_Denoising_Demo)] (#Corresponding author)
   
+* **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiachao Zhang, Jiantao Zhou and Ce Zhu. "Structured residual sparsity for video compressive sensing reconstruction", **_Signal Processing (SP)_**, vol. 222, pages. 109513, 2024. (IF: 4.400) ([PDF](https://www.sciencedirect.com/science/article/abs/pii/S0165168424001324))  [[Code](https://github.com/zhazhiyuan/SRS_Video_CS_Demo.git)]
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Saiprasad Ravishankar, Jiantao Zhou and Ce Zhu. "Learning Nonlocal Sparse and Low-Rank Models for Image Compressive Sensing", **_IEEE Signal Processing Magazine (SPM)_**, vol. 40, no. 1, pp. 32-44, Jan. 2023. (IF: 15.204) ([PDF](https://ieeexplore.ieee.org/document/10004837))  [[Code](https://github.com/zhazhiyuan/Nonlocal_Image_CS_Demo.git)]
 
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiachao Zhang, Jiantao Zhou, Xudong Jiang and Ce Zhu. "Multiple Complementary Priors for Multispectral Image Compressive Sensing Reconstruction", **_IEEE Transactions on Cybernetics (TCYB)_**, 2023. (IF: 19.118) ([PDF](https://ieeexplore.ieee.org/document/10068806))  [[Code](https://github.com/zhazhiyuan/MCP_MSI_CS_Demo.git)]
@@ -94,15 +94,12 @@ function toggleBibtex(articleid) {
 
 * Lanqing Guo, **Zhiyuan Zha**, Saiprasad Ravishankar, and Bihan Wen. "Exploiting Non-Local Priors via Self-Convolution for Highly-Efficient Image Restoration", **_IEEE Transactions on Image Processing (TIP)_**, vol. 31, pp. 1311-1324, 2022. (IF: 11.041) ([PDF](https://ieeexplore.ieee.org/abstract/document/9679456)) [[Code](https://github.com/GuoLanqing/Self-Convolution.git)]
 
-* Chen Xiang, Wenjun Xia, Yan Liu, Hu Chen, Jiliu Zhou, **Zhiyuan Zha**, Bihan Wen, and Yi Zhang. "FONT-SIR: Fourth-Order Nonlocal Tensor Decomposition Model for Spectral CT Image Reconstruction", **_IEEE Transactions on Medical Imaging (TMI)_**, vol. 41,   pp. 2144-2156, 2022. (IF: 11.037) ([PDF](https://ieeexplore.ieee.org/abstract/document/9726161))
-
 <br>
 
 #### Conference Papers
 
-
-
-
+* Wudi Chen, **Zhiyuan Zha**#, Shigang Wang, Bihan Wen, Xin Yuan, Jiantao Zhou, zipei fan, Gang Yan, Ce Zhu. "KaRF: Weakly-Supervised Kolmogorov-Arnold Networks-based Radiance Fields for Local Color Editing", **_39th Annual Conference on Neural Information Processing Systems (NeurIPS)_**, San Diego, USA, 2025. (#Corresponding author)
+  
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou and Ce Zhu. "Hyperspectral Image Denoising Via Nonlocal Rank Residual Modeling", **_48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Rhodes Island, Greence, pp. 1-5, 2023. ([PDF](https://ieeexplore.ieee.org/document/10096242)) [[Code](https://github.com/zhazhiyuan/NRR_HSI_Denoising_Demo.git)]
 
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiantao Zhou and Ce Zhu. "Simultaneous Nonlocal Low-Rank and Deep Priors for Poisson Denoising", **_47th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Singapore, pp. 2320-2324, 2022. (Oral) ([PDF](https://ieeexplore.ieee.org/abstract/document/9746870)) [[Code](https://github.com/zhazhiyuan/SNLDP-Poisson-denoising-Demo.git)]
@@ -128,6 +125,9 @@ function toggleBibtex(articleid) {
 * **Zhiyuan Zha**, Xin Liu, Ziheng Zhou, Xiaohua Huang, Jingang Shi, Zhenhong Shang, Lan Tang, Yechao Bai, Qiong Wang and Xinggan Zhang. "Image denoising via group sparsity residual constraint", **_42th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, New Orleans, LA, USA, pp. 1787-1791, 2017. (Poster) ([PDF](https://ieeexplore.ieee.org/abstract/document/7952464)) [[Code](https://github.com/zhazhiyuan/GSRC-Demo.git)]
 
 * **Zhiyuan Zha**, Xinggan Zhang, Qiong Wang, Yechao Bai and Lan Tang. "Image denoising using group sparsity residual and external nonlocal self-similarity prior", **_24th IEEE International Conference on Image Processing (ICIP)_**, Bejing, China, pp. 2956-2960. IEEE, 2017. (Poster) ([PDF](https://ieeexplore.ieee.org/abstract/document/8296824)) [[Code](https://github.com/zhazhiyuan/GSRC-ENSS-Demo.git)]
+
+* Lanqing Guo, **Zhiyuan Zha**, Saiprasad Ravishankar, and Bihan Wen. "Self-convolution: A highly-efficient operator for non-local image restorationg", **_46th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Toronto, Ontario, Canada, pp. 1860-1864, 2021. (Oral) ([PDF](https://ieeexplore.ieee.org/abstract/document/9414124))  [[Code](https://github.com/GuoLanqing/Self-Convolution.git)]
+
 
 * Lanqing Guo, **Zhiyuan Zha**, Saiprasad Ravishankar, and Bihan Wen. "Self-convolution: A highly-efficient operator for non-local image restorationg", **_46th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, Toronto, Ontario, Canada, pp. 1860-1864, 2021. (Oral) ([PDF](https://ieeexplore.ieee.org/abstract/document/9414124))  [[Code](https://github.com/GuoLanqing/Self-Convolution.git)]
 
