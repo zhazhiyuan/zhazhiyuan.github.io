@@ -55,6 +55,8 @@ function toggleBibtex(articleid) {
 <br>
 
 #### Journal Papers
+* Sirui Pan, **Zhiyuan Zha**#, Shigang Wang, Yue Li, Zipei Fan, Gang Yan, Binh T. Nguyen, Bihan Wen and Ce Zhu. "Triply Laplacian Scale Mixture Modeling for Seismic Data Noise Suppression", **_IEEE Transactions on Geoscience and Remote Sensing (TGRS)_**, 2025.  (IF: 8.60) ([PDF](https://ieeexplore.ieee.org/document/11213513))  [[Code](https://github.com/pansirui/TLSM_Seismic_Denoising_Demo)] (#Corresponding author)
+  
 * Sirui Pan, **Zhiyuan Zha**#, Shigang Wang, Bihan Wen, Zipei Fan, Gang Yan, Binh T. Nguyen and Yue Li. "Joint Tensor Ring Decomposition and Unidirectional Total Variation for Seismic Data Denoising", **_IEEE Transactions on Geoscience and Remote Sensing (TGRS)_**, 2025.  (IF: 8.60) ([PDF](https://xplorestaging.ieee.org/document/11202991))  [[Code](https://github.com/pansirui/TR-UTV_Seismic_Denoising_Demo)] (#Corresponding author)
   
 * **Zhiyuan Zha**, Bihan Wen, Xin Yuan, Jiachao Zhang, Jiantao Zhou and Ce Zhu. "Structured residual sparsity for video compressive sensing reconstruction", **_Signal Processing (SP)_**, vol. 222, pages. 109513, 2024. (IF: 4.400) ([PDF](https://www.sciencedirect.com/science/article/abs/pii/S0165168424001324))  [[Code](https://github.com/zhazhiyuan/SRS_Video_CS_Demo.git)]
