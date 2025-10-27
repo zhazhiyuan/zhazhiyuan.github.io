@@ -163,12 +163,13 @@ function toggleBibtex(articleid) {
 
 ### Program Committee or Reviewer
 
-* AAI Conference on Artificial Intelligence (AAAI), 2022-2024
-* IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020-2023
-* IEEE International Conference on Image Processing (ICIP), 2019-2023
-* IEEE International Conference on Multimedia and Expo (ICME), 2021-2023
-* IEEE International Symposium on Biomedical Imaging (ISBI), 2023
-* IEEE International Symposium on Circuits & Systems (ISCAS), 2023
+*  International Conference on Learning Representations (ICLR)
+*  AAI Conference on Artificial Intelligence (AAAI) 
+* IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 
+* IEEE International Conference on Image Processing (ICIP)
+* IEEE International Conference on Multimedia and Expo (ICME) 
+* IEEE International Symposium on Biomedical Imaging (ISBI) 
+* IEEE International Symposium on Circuits & Systems (ISCAS) 
 
 
 ### Journal Reviewer
@@ -204,7 +205,7 @@ function toggleBibtex(articleid) {
 ---
 
 ### Member
-* IEEE Senior Member, CSIG Senior Member, CCF Member, SPS member
+* IEEE Senior Member, CCF Senior Member, CSIG Senior Member, SPS Member, CAS Member, GRSS Member
 
 ---
 
