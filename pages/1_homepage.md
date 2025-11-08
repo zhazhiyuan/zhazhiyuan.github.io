@@ -55,7 +55,7 @@ function toggleBibtex(articleid) {
 <br>
 
 #### Journal Papers
-* Wudi Chen, **Zhiyuan Zha**#, Shigang Wang, Liaqat Ali, Bihan Wen, Xin Yuan, Jiantao Zhou and Ce Zhu. "Texture-Consistent 3D Scene Style Transfer via Transformer-Guided Neural Radiance Fields", **_IEEE Transactions on Image Processing (TIP)_**, 2025.  (IF: 8.60) ([PDF](https://ieeexplore.ieee.org/document/11226899/authors#authors))  [[Code](https://github.com/PaiDii/TGTC-Style)] (#Corresponding author)
+* Wudi Chen, **Zhiyuan Zha**#, Shigang Wang, Liaqat Ali, Bihan Wen, Xin Yuan, Jiantao Zhou and Ce Zhu. "Texture-Consistent 3D Scene Style Transfer via Transformer-Guided Neural Radiance Fields", **_IEEE Transactions on Image Processing (TIP)_**, 2025.  (IF: 13.70) ([PDF](https://ieeexplore.ieee.org/document/11226899/authors#authors))  [[Code](https://github.com/PaiDii/TGTC-Style)] (#Corresponding author)
   
 * Sirui Pan, **Zhiyuan Zha**#, Shigang Wang, Yue Li, Zipei Fan, Gang Yan, Binh T. Nguyen, Bihan Wen and Ce Zhu. "Triply Laplacian Scale Mixture Modeling for Seismic Data Noise Suppression", **_IEEE Transactions on Geoscience and Remote Sensing (TGRS)_**, 2025.  (IF: 8.60) ([PDF](https://ieeexplore.ieee.org/document/11213513))  [[Code](https://github.com/pansirui/TLSM_Seismic_Denoising_Demo)] (#Corresponding author)
   
