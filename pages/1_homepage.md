@@ -148,19 +148,19 @@ function toggleBibtex(articleid) {
 ---
 
 ### Academic Service
-* Associate Editor of [IEEE Transactions on Image Processing](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing/editorial-board).
+* Associate Editor of [IEEE Transactions on Image Processing](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing/editorial-board)
 
 * Associate Editor of [IEEE Transactions on Circuits and Systems for Video Technology](https://ieee-cas.org/committee/ieee-transactions-circuits-and-systems-video-technology-tcsvt-editorial-board)
 
-* Associate Editor of [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board).
+* Associate Editor of [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board)
 
 * Lead Guest Editor of [High-Dimensional Imaging: Emerging Challenges and Advances in Reconstruction and Restoration](https://signalprocessingsociety.org/events/ieee-jstsp-special-issue-high-dimensional-imaging-emerging-challenges-and-advances) in the [IEEE Journal of Selected Topic in Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690) 
   
-* Handling Editor of [Signal Processing](https://www.sciencedirect.com/journal/signal-processing/about/editorial-board).
+* Handling Editor of [Signal Processing](https://www.sciencedirect.com/journal/signal-processing/about/editorial-board)
 
 * [IEEE Computational Imaging Technical Committee (CI TC) Member](https://signalprocessingsociety.org/community-involvement/computational-imaging/members), since January 2024.
 
-* Associate Editor of [The Visual Computer](https://link.springer.com/journal/371/editorial-board).
+* Associate Editor of [The Visual Computer](https://link.springer.com/journal/371/editorial-board)
 
 * Area Chair of the 51th [IEEE International Conference on Acoustics, Speech and Signal Processing](https://2026.ieeeicassp.org/) (ICASSP 2026) 
   
