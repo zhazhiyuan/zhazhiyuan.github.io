@@ -105,8 +105,7 @@ function toggleBibtex(articleid) {
 
 #### Conference Papers
 
-* Wudi Chen, **Zhiyuan Zha**#, Xin Yuan, Shigang Wang, Bihan Wen, Jiantao Zhou, Gang Yan, Zipei Fan, Ce Zhu.
-* "Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Super-Resolution for Snapshot Compressive Imaging", **_International Conference on Machine Learning (ICML)_**, Seoul, South Korea, 2026.  ([PDF](https://openreview.net/forum?id=0OpwiqWPQJ))  [[Code](https://github.com/PaiDii/Phy-CoSF.git)] (#Corresponding author)
+* Wudi Chen, **Zhiyuan Zha**#, Xin Yuan, Shigang Wang, Bihan Wen, Jiantao Zhou, Gang Yan, Zipei Fan, Ce Zhu. "Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Super-Resolution for Snapshot Compressive Imaging", **_International Conference on Machine Learning (ICML)_**, Seoul, South Korea, 2026.  ([PDF](https://openreview.net/forum?id=0OpwiqWPQJ))  [[Code](https://github.com/PaiDii/Phy-CoSF.git)] (#Corresponding author)
 
 * Wudi Chen, **Zhiyuan Zha**#, Shigang Wang, Bihan Wen, Xin Yuan, Jiantao Zhou, zipei fan, Gang Yan, Ce Zhu. "KaRF: Weakly-Supervised Kolmogorov-Arnold Networks-based Radiance Fields for Local Color Editing", **_39th Annual Conference on Neural Information Processing Systems (NeurIPS)_**, San Diego, USA, 2025. ([PDF](https://openreview.net/pdf?id=iErudB83TM)) [[Code](https://github.com/PaiDii/KARF.git)] (#Corresponding author)
   
